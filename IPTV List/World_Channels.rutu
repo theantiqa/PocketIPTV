@@ -3757,15 +3757,6 @@
             "id": 2,
             "name": "Indian Live",
             "sub": {
-            "sub_0": {
-                "id": 0,
-                "name": "Padmavat",
-                "mode": "video",
-                "sub_name": "",
-                "swift_id": 79284,
-                "stream_video_url1": "http://185.21.217.59:8880/vod/Padmaavat2018.mp4/playlist.m3u8",
-                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/48330_HINDIMOVIES.jpg"
-              },
               "sub_1": {
                 "id": 1,
                 "name": "Aaj Tak",
