@@ -3757,7 +3757,7 @@
             "id": 2,
             "name": "Indian Live",
             "sub": {
-            "sub_1": {
+            "sub_0": {
                 "id": 0,
                 "name": "Padmavat",
                 "mode": "video",
