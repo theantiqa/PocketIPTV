@@ -10,17 +10,6 @@
         "thumbnail_url": "http://www.4androidapk.net/data/programs/images/cricket-buzz-live-score-fast_8563.png",
         "sub": {
           "sub_1": {
-            "id": 1,
-            "name": "Sports Live",
-            "sub": {
-             "sub_0": {
-                "id": 0,
-                "name": "Big Boss1",
-                "mode": "video",
-                "sub_name": "",
-                "swift_id": 78456,
-                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/33993_bbday1.jpg"
-              },
               "sub_1": {
                 "id": 1,
                 "name": "WWE Network",
