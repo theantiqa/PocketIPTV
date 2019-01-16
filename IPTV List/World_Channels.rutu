@@ -3762,8 +3762,7 @@
                 "name": "Padmavat",
                 "mode": "video",
                 "sub_name": "",
-                "swift_id1": 69,
-                "stream_video_url" : "http://185.21.217.59:8880/vod/Padmaavat2018.mp4/playlist.m3u8",
+                "swift_id": 69,
                 "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/48330_HINDIMOVIES.jpg"
               },
               "sub_1": {
