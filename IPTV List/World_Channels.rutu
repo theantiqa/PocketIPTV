@@ -10,6 +10,9 @@
         "thumbnail_url": "http://www.4androidapk.net/data/programs/images/cricket-buzz-live-score-fast_8563.png",
         "sub": {
           "sub_1": {
+            "id": 1,
+            "name": "Sports Live",
+            "sub": {
               "sub_1": {
                 "id": 1,
                 "name": "WWE Network",
@@ -1068,7 +1071,7 @@
               }
             },
             "sub_name": "Channels",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Sports-TV.jpeg?alt=media&token=3c1ff073-e79e-42a8-9641-73d9c5128ee4"
+            "thumbnail_url": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/Resources/World_TV_Icon/Sports-TV.jpeg"
           },
           "sub_10": {
             "id": 10,
@@ -1196,7 +1199,7 @@
               }
             },
             "sub_name": "Channels",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Australiya.jpeg?alt=media&token=2c7fa6ba-fe30-4c05-86a1-160cc54e6bf9"
+            "thumbnail_url": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/Resources/World_TV_Icon/Australiya.jpeg"
           },
           "sub_11": {
             "id": 11,
@@ -1564,7 +1567,7 @@
               }
             },
             "sub_name": "Channels",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Germany.jpeg?alt=media&token=ee40ba1f-0aa0-4fc7-b9ad-04fa5a5e32c3"
+            "thumbnail_url": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/Resources/World_TV_Icon/Germany.jpeg"
           },
           "sub_12": {
             "id": 12,
@@ -2532,7 +2535,7 @@
               }
             },
             "sub_name": "Channels",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Soudi-Arabia-TV.jpeg?alt=media&token=fe2749ac-f450-442f-b026-7c7b16e54e60"
+            "thumbnail_url": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/Resources/World_TV_Icon/Soudi-Arabia-TV.jpeg"
           },
           "sub_13": {
             "id": 13,
@@ -2612,7 +2615,7 @@
               }
             },
             "sub_name": "Channels",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Philippience.jpeg?alt=media&token=47500d9e-cbe4-451c-ba72-013bdeec1c50"
+            "thumbnail_url": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/Resources/World_TV_Icon/Philippience.jpeg"
           },
           "sub_14": {
             "id": 14,
@@ -2780,7 +2783,7 @@
               }
             },
             "sub_name": "Channels",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Indonesia.jpeg?alt=media&token=0d06e6d7-d86c-402e-b0dd-56ccae189366"
+            "thumbnail_url": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/Resources/World_TV_Icon/Indonesia.jpeg"
           },
           "sub_15": {
             "id": 15,
@@ -2892,7 +2895,7 @@
               }
             },
             "sub_name": "Channels",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Srilanka-TV.jpeg?alt=media&token=042b3227-7f47-4a67-8951-520400fb0b33"
+            "thumbnail_url": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/Resources/World_TV_Icon/Srilanka-TV.jpeg"
           },
           "sub_16": {
             "id": 16,
@@ -3180,7 +3183,7 @@
               }
             },
             "sub_name": "Channels",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Afghan-TV.jpeg?alt=media&token=bb51b5ba-6186-4842-bb58-5aa65a21ff17"
+            "thumbnail_url": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/Resources/World_TV_Icon/Afghan-TV.jpeg"
           },
           "sub_17": {
             "id": 17,
@@ -3420,7 +3423,7 @@
               }
             },
             "sub_name": "Channels",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/France-TV.jpeg?alt=media&token=38f2e9a3-88c0-4107-b939-c200b18290f5"
+            "thumbnail_url": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/Resources/World_TV_Icon/France-TV.jpeg"
           },
           "sub_18": {
             "id": 18,
@@ -3556,7 +3559,7 @@
               }
             },
             "sub_name": "Channels",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Belgium-TV.jpeg?alt=media&token=d1d740d7-73ab-464c-8db7-a3fc9d3e637f"
+            "thumbnail_url": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/Resources/World_TV_Icon/Belgium-TV.jpeg"
           },
           "sub_19": {
             "id": 19,
@@ -3748,7 +3751,7 @@
               }
             },
             "sub_name": "Channels",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Irani-TV.jpeg?alt=media&token=bd5064e9-2e57-4b2a-9623-64a4dda0b6cf"
+            "thumbnail_url": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/Resources/World_TV_Icon/Irani-TV.jpeg"
           },
           "sub_2": {
             "id": 2,
@@ -4829,7 +4832,7 @@
               }
             },
             "sub_name": "Channels",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/India-TV.jpeg?alt=media&token=6fbae05b-73b0-4298-a67a-35d74d74a2fb"
+            "thumbnail_url": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/Resources/World_TV_Icon/India-TV.jpeg"
           },
           "sub_20": {
             "id": 20,
@@ -4949,7 +4952,7 @@
               }
             },
             "sub_name": "Channels",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Mauritius-TV.jpeg?alt=media&token=1f7a6e62-68b9-43c3-a9c0-3c0ed2fa374f"
+            "thumbnail_url": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/Resources/World_TV_Icon/Mauritius-TV.jpeg"
           },
           "sub_21": {
             "id": 21,
@@ -5357,7 +5360,7 @@
               }
             },
             "sub_name": "Channels",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Portugal-TV.jpeg?alt=media&token=c2b51247-40e7-40e9-a512-ee777b4eb06d"
+            "thumbnail_url": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/Resources/World_TV_Icon/Portugal-TV.jpeg"
           },
           "sub_22": {
             "id": 22,
@@ -5613,7 +5616,7 @@
               }
             },
             "sub_name": "Channels",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Italy-TV.jpeg?alt=media&token=654213d8-b74c-4b04-b166-b85dba44526e"
+            "thumbnail_url": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/Resources/World_TV_Icon/Italy-TV.jpeg"
           },
           "sub_23": {
             "id": 23,
@@ -6037,7 +6040,7 @@
               }
             },
             "sub_name": "Channels",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Turkish-TV.jpeg?alt=media&token=5e48eff9-34b5-402f-a551-9f02ba985d12"
+            "thumbnail_url": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/Resources/World_TV_Icon/Turkish-TV.jpeg"
           },
           "sub_24": {
             "id": 24,
@@ -6253,7 +6256,7 @@
               }
             },
             "sub_name": "Channels",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Greek-TV.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/Resources/World_TV_Icon/Greek-TV.jpeg"
           },
           "sub_25": {
             "id": 25,
@@ -6381,7 +6384,7 @@
               }
             },
             "sub_name": "Channels",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Neatherland-TV.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/Resources/World_TV_Icon/Neatherland-TV.jpeg"
           },
           "sub_26": {
             "id": 26,
@@ -6573,7 +6576,7 @@
               }
             },
             "sub_name": "Channels",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Poland-TV.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/Resources/World_TV_Icon/Poland-TV.jpeg"
           },
           "sub_27": {
             "id": 27,
@@ -6757,7 +6760,7 @@
               }
             },
             "sub_name": "Channels",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Spain-TV.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/Resources/World_TV_Icon/Spain-TV.jpeg"
           },
           "sub_28": {
             "id": 28,
@@ -6989,7 +6992,7 @@
               }
             },
             "sub_name": "Channels",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Kurdish-TV.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/Resources/World_TV_Icon/Kurdish-TV.jpeg"
           },
           "sub_29": {
             "id": 29,
@@ -7269,7 +7272,7 @@
               }
             },
             "sub_name": "Channels",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Albania-TV.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/Resources/World_TV_Icon/Albania-TV.jpeg"
           },
           "sub_30": {
             "id": 30,
@@ -7509,7 +7512,7 @@
               }
             },
             "sub_name": "Channels",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Romania-TV.jpeg"
+            "thumbnail_url": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/Resources/World_TV_Icon/Romania-TV.jpeg"
           },
           "sub_31": {
             "id": 31,
@@ -7693,7 +7696,7 @@
               }
             },
             "sub_name": "Channels",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Thailand.jpg"
+            "thumbnail_url": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/Resources/World_TV_Icon/Thailand.jpg"
           },
           "sub_34": {
             "id": 34,
@@ -8101,7 +8104,7 @@
               }
             },
             "sub_name": "Channels",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Kidz-Zone.jpeg?alt=media&token=90937f03-1a17-46b4-919d-76d44aa367cf"
+            "thumbnail_url": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/Resources/World_TV_Icon/Kidz-Zone.jpeg"
           },
           "sub_35": {
             "id": 35,
@@ -8317,7 +8320,7 @@
               }
             },
             "sub_name": "Channels",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Wild-Life-Sci.jpeg?alt=media&token=23bcaf3c-e473-4cb1-a0a2-2b7dda330242"
+            "thumbnail_url": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/Resources/World_TV_Icon/Wild-Life-Sci.jpeg"
           },
           "sub_36": {
             "id": 36,
@@ -8605,7 +8608,7 @@
               }
             },
             "sub_name": "Channels",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Religious-TV.jpeg?alt=media&token=0bee1819-6c8c-4fd0-b45f-715a50d336a0"
+            "thumbnail_url": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/Resources/World_TV_Icon/Religious-TV.jpeg"
           },
           "sub_3": {
             "id": 3,
@@ -9356,7 +9359,7 @@
               }
             },
             "sub_name": "Channels",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Pakistan-TV.jpeg?alt=media&token=c610e26b-1c2f-44df-a08b-f3d2f7f20a7a"
+            "thumbnail_url": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/Resources/World_TV_Icon/Pakistan-TV.jpeg"
           },
           "sub_4": {
             "id": 4,
@@ -9676,7 +9679,7 @@
               }
             },
             "sub_name": "Channels",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/USA-TV.jpeg?alt=media&token=0929403d-4a95-40b3-82f3-c201f0aa8d11"
+            "thumbnail_url": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/Resources/World_TV_Icon/USA-TV.jpeg"
           },
           "sub_5": {
             "id": 5,
@@ -10508,7 +10511,7 @@
               }
             },
             "sub_name": "Channels",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/South-India-TV.jpeg?alt=media&token=23f12bd0-d498-49c7-a22a-e2e6e33dc6b4"
+            "thumbnail_url": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/Resources/World_TV_Icon/South-India-TV.jpeg"
           },
           "sub_6": {
             "id": 6,
@@ -10788,7 +10791,7 @@
               }
             },
             "sub_name": "Channels",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Punjabi-TV.jpeg?alt=media&token=15726b90-4899-466b-bf5a-300a9483c96e"
+            "thumbnail_url": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/Resources/World_TV_Icon/Punjabi-TV.jpeg"
           },
           "sub_7": {
             "id": 7,
@@ -11388,7 +11391,7 @@
               }
             },
             "sub_name": "Channels",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Bangla-TV.jpeg?alt=media&token=865c7402-9d22-4436-a707-b5983c577149"
+            "thumbnail_url": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/Resources/World_TV_Icon/Bangla-TV.jpeg"
           },
           "sub_8": {
             "id": 8,
@@ -12060,7 +12063,7 @@
               }
             },
             "sub_name": "Channels",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/UK-TV.jpeg?alt=media&token=98e116e5-870d-4df3-9415-a64c8ad03808"
+            "thumbnail_url": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/Resources/World_TV_Icon/UK-TV.jpeg"
           },
           "sub_9": {
             "id": 9,
@@ -12156,10 +12159,10 @@
               }
             },
             "sub_name": "Channels",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Nepal-TV.jpeg?alt=media&token=fad498ac-cfa0-4c8c-a86e-7259da5c1444"
+            "thumbnail_url": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/Resources/World_TV_Icon/Nepal-TV.jpeg"
           }
         }
       }
     }
   }
-
+}
