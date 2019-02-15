@@ -1,5 +1,5 @@
 {
-  "TV_Data": {
+  "TinyApp_Data": {
     "Settings": {
       "Admob_Settings": {
         "is_override" : false,
@@ -19,7 +19,8 @@
           "is_ads": false,
           "is_banner_ads": true,
           "is_interstitial_ads": true,
-          "is_stream_player_banner_ads": true,
+          "is_ad_as_task_interstitial_ads": true,
+          "is_ad_as_task_banner_ads": true,
           "is_initially_ads_container_visible":true,
           "visibility_percentage": 0
         },
@@ -36,7 +37,8 @@
           "is_ads": false,
           "is_banner_ads": true,
           "is_interstitial_ads": true,
-          "is_stream_player_banner_ads": true,
+          "is_ad_as_task_interstitial_ads": true,
+          "is_ad_as_task_banner_ads": true,
           "is_initially_ads_container_visible":true,
           "rewarded_video_ad_unit_id": "8c9e6a25-14b7-4184-89a5-f1e14be59b1b",
           "visibility_percentage": 0
@@ -56,7 +58,8 @@
           "is_ads": true,
           "is_banner_ads": true,
           "is_interstitial_ads": true,
-          "is_stream_player_banner_ads": true,
+          "is_ad_as_task_interstitial_ads": true,
+          "is_ad_as_task_banner_ads": true,
           "is_initially_ads_container_visible":true,
           "visibility_percentage": 0
         },
@@ -74,7 +77,8 @@
           "is_ads": true,
           "is_banner_ads": true,
           "is_interstitial_ads": true,
-          "is_stream_player_banner_ads": false,
+          "is_ad_as_task_interstitial_ads": true,
+          "is_ad_as_task_banner_ads": false,
           "is_initially_ads_container_visible":true,
           "native_ad_unit_id": "ca-app-pub-3940256099942544/2247696110",
           "rewarded_video_ad_unit_id": "ca-app-pub-3940256099942544/1044960115",
@@ -96,7 +100,8 @@
           "is_ads": true,
           "is_banner_ads": true,
           "is_interstitial_ads": true,
-          "is_stream_player_banner_ads": true,
+          "is_ad_as_task_interstitial_ads": true,
+          "is_ad_as_task_banner_ads": true,
           "is_initially_ads_container_visible":true,
           "visibility_percentage": 0
         },
@@ -105,7 +110,8 @@
           "is_ads": false,
           "is_banner_ads": true,
           "is_interstitial_ads": true,
-          "is_stream_player_banner_ads": true,
+          "is_ad_as_task_interstitial_ads": true,
+          "is_ad_as_task_banner_ads": true,
           "is_initially_ads_container_visible":false,
           "visibility_percentage": 0,
           "ads_list" :
@@ -129,7 +135,8 @@
         },
         "is_banner_ads": true,
         "is_interstitial_ads": true,
-        "is_stream_player_banner_ads": true,
+        "is_ad_as_task_interstitial_ads": true,
+        "is_ad_as_task_banner_ads": true,
         "amazon_ads": {
           "ads_app_id": "ab2af0042c144a81a7edf1ffc14293a8",
           "ads_banner_clicks_per_duration_day" : 1,
@@ -143,7 +150,8 @@
           "is_ads": true,
           "is_banner_ads": true,
           "is_interstitial_ads": true,
-          "is_stream_player_banner_ads": true,
+          "is_ad_as_task_interstitial_ads": true,
+          "is_ad_as_task_banner_ads": true,
           "is_initially_ads_container_visible":true,
           "visibility_percentage": 0
         },
@@ -153,107 +161,10 @@
           "is_ads": true,
           "is_banner_ads": true,
           "is_interstitial_ads": true,
-          "is_stream_player_banner_ads": true,
+          "is_ad_as_task_interstitial_ads": true,
+          "is_ad_as_task_banner_ads": true,
           "is_initially_ads_container_visible":true,
           "visibility_percentage": 100
-        }
-      },
-      "App_Guide_Data":
-      {
-        "is_override": false,
-        "guide_player_selection_menu":
-        {
-          "is_guide":true,
-          "guide_title":"Player Selection",
-          "guide_description":"You can choose your favorite player for play video/live stream here."
-        },
-        "guide_search_action":
-        {
-          "is_guide":true,
-          "guide_title":"Search",
-          "guide_description":"you can search any channel very smartly\n\nyou can save your time to finding any channel."
-        },
-        "guide_navigation_drawer":
-        {
-          "is_guide":true,
-          "guide_title":"Main Menu",
-          "guide_description":"You can get Pocket IPTV supports and features here."
-        },
-        "guide_add_playlist":
-        {
-          "is_guide":true,
-          "guide_title":"Add Playlist",
-          "guide_description":"You can add playlist from here."
-        },
-        "guide_add_playlist_file":
-        {
-          "is_guide":true,
-          "guide_title":"Add Playlist File",
-          "guide_description":"Add playlist File of following extensions (RUTU, .JSON, .M3U, .M3U8, .TXT, .XSPF) \nIt will open file chooser."
-        },
-        "guide_add_playlist_url":
-        {
-          "is_guide":true,
-          "guide_title":"Add Playlist URL",
-          "guide_description":"Add playlist URL which is getting from playlist provider on web (you have to find playlist URL and paste it here)."
-        },
-        "guide_add_playlist_qr_code":
-        {
-          "is_guide": true,
-          "guide_title": "Add Playlist Through QR Code",
-          "guide_description": "By this you have to scan those QR code which provide from web or from application of other friends.\nHere you have to just scan QR code and playlist automatically load to the app."
-        },
-        "guide_add_playlist_web_search":
-        {
-          "is_guide":true,
-          "guide_title":"Search Play list",
-          "guide_description":"Here you can search playlist on web. It will directly redirect to playlist providers"
-        },
-        "guide_playlist_delete":
-        {
-          "is_guide":true,
-          "guide_title":"Delete Playlist Item",
-          "guide_description":"You can delete selected playlist items from here, also undo it."
-        },
-        "guide_playlist_share":
-        {
-          "is_guide":true,
-          "guide_title":"Share Playlist URL",
-          "guide_description":"You can share Web Playlist URL with QR code to your friends & your friends also enjoy same playlist."
-        },
-        "guide_playlist_qr_code_viewer":
-        {
-          "is_guide":true,
-          "guide_title":"QR Code",
-          "guide_description":"You can open QR Code so your frineds directly can scan this code and add same playlist by this feature."
-        },
-
-
-        "guide_current_iptv_adapter":
-        {
-          "is_guide":true,
-          "guide_title":"IPTV Playlist Item",
-          "guide_description":"Here you can switch playlist by simple clicking.\n\nIf you want to delete or share web iptv playlist then LONG PRESS on playlist item."
-        },
-        "guide_current_iptv_adapter_icon":
-        {
-          "is_guide":true,
-          "guide_title":"Share & Delete",
-          "guide_description":"You can share & delete playlist item by simple pressing on icon or long pressing on playlist item."
-        },
-
-
-        "guide_video_player_report_channel":
-        {
-          "is_guide":true,
-          "guide_title":"Report Channels",
-          "guide_description":"Report us about channel."
-        },
-        "guide_video_player_chromecast":
-        {
-          "is_guide":true,
-          "guide_title":"Casting Content",
-          "guide_description":"Touch to cast content to available device."
         }
       },
 
@@ -264,14 +175,14 @@
         "is_popup_dialog": false,
         "is_update_require":false,
 
-        "package_id":"com.test.master",
+        "package_id":"com.test.lovecalculator",
         "download_url":"",
-        "website_url":"https://play.google.com/store/apps/details?id=com.test.master",
+        "website_url":"https://play.google.com/store/apps/details?id=com.test.lovecalculator",
         "is_system_browser":true,
 
         "updated_version_code":1,
 
-        "filename":"Pocket_IPTV.apk",
+        "filename":"lovecalculator.apk",
         "title":"App Update",
         "default_message":"Your App is Up to date.",
         "log_message":"",
@@ -313,60 +224,11 @@
       "Supports_Availability":
       {
         "is_override" : false,
-        "is_smart_player_support": true,
-        "is_android_player_support": true,
-        "is_webview_player_support": true,
-        "is_other_player_support":true,
-        "is_inapp_other_player_support":true,
-        "is_other_player_session_free_support":false,
-
-        "is_cast_support":true,
-        "is_inapp_cast_support":true,
-        "is_cast_session_free_support":false,
 
         "is_remove_ads_support":true,
         "is_remove_ads_session_free_support":false,
 
         "is_purchase_restore_support":true
-      },
-
-      "Other_Player_Support":
-      {
-        "is_override" : false,
-        "other_player_title": "Other Player Support",
-
-        "inapp_other_player_sku" : "com.pockettv.otherplayeroption",
-        "inapp_other_player_message": "If you want to play video on you favorite video player.\n\nThen you should purchase this service.\n\nYou will get player chooser while you try to play any video or channel from Pocket IPTV.",
-
-        "other_player_banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Player-select.jpg?alt=media&token=42a59563-69ca-4048-81de-96d82fb952b0",
-
-        "success_other_player_message": "Congratulations!\nNow you can play video in outside player also."
-      },
-
-      "Chromecast_Support":
-      {
-        "is_override" : false,
-        "cast_title": "Chromecast Support",
-
-        "cast_agent": "09",
-        "cast_referer": "https://www.metube.id",
-        "cast_package_name": "com.instantbits.cast.webvideo",
-
-        "inapp_cast_sku" : "com.pockettv.chromecast",
-        "inapp_cast_message": "If you want to play video on you TV.\n\nThen you should purchase this service.\n\nYou will get chromecast support from Pocket IPTV.",
-
-        "cast_banner_url": "https://www.hyperlinkinfosystem.com/assets/uploads/banner/1479248554.png",
-
-        "initial_cast_message": "Do you need Chromecast support then follow below steps :\n\n(1). Press \"SETUP\" button.\n(2). If It will ask for permission please allow.\n(3). It will open download dialog and please wait till download completion.\n(4). After you can see \"INSTALL\" button, press \"INSTALL\" button.\n(5). After It will popup for installation screen and then \"INSTALL\" it.\n(6). After installation complete press \"DONE\" button.\n(7). Come back to Pocket IPTV and you will see your plugin activated.\n(9). If you can't setup then : <a href='https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/COMMON/APKS/ChromeCast.apk'>DOWNLOAD HERE</a>\n\n",
-        "initial_cast_message1": "Do you need Chromecast support then press \"LINK\" button and install chromecast app from playstore.",
-        "success_cast_message": "Now You can Chromecast Your Video From Player.",
-
-        "download_url": "",
-        "website_url" : "",
-        "is_system_browser":true,
-        "filename": "RUTU_CHROMECAST.apk",
-        "downloading_message":"App Downloading",
-        "installing_message":"App Install"
       },
 
       "Remove_Ads_Support":
@@ -427,7 +289,7 @@
       {
         "is_override" : false,
         "is_rate_app" : false,
-        "package_id" : "com.pocketiptv",
+        "package_id" : "com.test.lovecalculator",
         "rate_app_url" : "https://play.google.com/store/apps/details?id=com.pocketiptv",
         "rate_message" : "Please Rate us and promote us."
       },
@@ -445,7 +307,6 @@
         "is_override" : false,
         "is_share_app" : true,
         "share_message_app": "Are you looking best IPTV Player which manage your playlist and play it. then you hurry up and download pocket iptv from here : https://play.google.com/store/apps/details?id=com.pocketiptv",
-        "share_message_iptv": "Share iptv url : ",
         "share_message_link": "Share link url : "
       },
 
@@ -469,7 +330,7 @@
       {
         "is_override" : false,
         "registration_detail": "Pocket IPTV® 2018",
-        "version_detail": "version : 9.0"
+        "version_detail": "version : 1.0"
       },
 
       "Live_Support":
@@ -506,17 +367,6 @@
         "feedback_message": "If you have any kind of query, Then mail us.\nWe will resolve it."
       },
 
-      "Channel_Report_Support":
-      {
-        "is_override" : false,
-        "is_channel_report" : true,
-
-        "cc_email_id": "",
-        "email_id": "pocketiptv@gmail.com",
-
-        "channel_report_title": "Channel Report"
-      },
-
       "Error_Report_Support":
       {
         "is_override" : false,
@@ -540,34 +390,6 @@
         "google_plus_url": "https://plus.google.com/",
         "linkedin_url": "https://www.linkedin.com/",
         "linkedin_page_url": "linkedin://id"
-      },
-
-      "Live_Stream_Settings":
-      {
-        "is_override" : false,
-
-        "diltv_pak_url": "https://www.diltv.org/apps/output.php/playlist?type=xml&deviceSn=pakentnews&token=",
-        "diltv_dhamaka_url": "https://www.diltv.org/apps/output.php/playlist?type=xml&deviceSn=dhamkatv1&token=",
-        "swift_url": "http://swiftstreamz.com/SwiftLive/api.php?latest=5000",
-
-        "channel_error_message": "Channel not play because server is down.\nTry After Some Time",
-
-        "swift_token_url": "http://swiftstreamz.com/SwiftLive/swiftlive.php",
-        "swift_token_password": "SwiftStreamz:@SwiftStreamz@",
-
-        "dhamaka_token_url": "https://www.boxtvhd.com/androidapsbackup/dhamkatv.php",
-        "dhamaka_token_password": "AltafhussainMQM:Pakistanzindabad"
-      },
-
-      "Video_Player_Settings":
-      {
-        "is_override" : false,
-        "is_trial_version": false,
-        "trial_version_top_text": "TOP",
-        "trial_version_bottom_text": "BOTTOM",
-        "trial_version_height": 70,
-        "trial_version_bg_color": "#000000",
-        "trial_version_text_color": "#ffffff"
       }
     }
   }
