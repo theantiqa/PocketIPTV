@@ -4093,6 +4093,14 @@
                 "swift_id": 79010,
                 "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/20400_ndtvgoodtimes.jpg"
               },
+              "sub_137": {
+                "id": 137,
+                "name": "Iniyan TV",
+                "mode": "video",
+                "sub_name": "",
+                "stream_video_url": "http://webtv.akamain.info:1935/7460/7460/playlist.m3u8",
+                "thumbnail_url": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/Resources/World_TV_Icon/Channels/filn%20tv.png"
+              },
               "sub_14": {
                 "id": 14,
                 "name": "NDTV INDIA",
