@@ -194,19 +194,19 @@
         "message_list": {
           "msg_1": {
             "percentage": 0,
-            "message": "Love Guru says You are not made for each others."
+            "message": "You are not made for each others."
           },
           "msg_2": {
             "percentage": 10,
-            "message": "Love Guru says Love means sharing yourself with someone else who accepts you for who you are. Before you can expect someone else to accept you, though, you must know what “self” you are projecting."
+            "message": "Love means sharing yourself with someone else who accepts you for who you are. Before you can expect someone else to accept you, though, you must know what “self” you are projecting."
           },
           "msg_3": {
             "percentage": 20,
-            "message": "Love Guru suggests that you go ahead. It's the time to take chances and keep the negative thoughts at bay. Explore this person more. Drop in a handwritten note and see your world change!"
+            "message": "You go ahead. It's the time to take chances and keep the negative thoughts at bay. Explore this person more. Drop in a handwritten note and see your world change!"
           },
           "msg_4": {
             "percentage": 30,
-            "message": "Love Guru suggests that this is the best time to pick up the phone and call this special person. How about a coffee date for starters?"
+            "message": "This is the best time to pick up the phone and call this special person. How about a coffee date for starters?"
           },
           "msg_5": {
             "percentage": 40,
