@@ -9029,6 +9029,14 @@
                 "website_url": "http://www.espn.in/boxing/",
                 "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-boxing.png"
               },
+              "sub_24": {
+                "id": 24,
+                "name": "Commonwealth Games Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/commonwealth-games/",
+                "thumbnail_url": "http://a.espncdn.com/i/espn/Misc_logos/500/commonwealth.png"
+              },
               "sub_25": {
                 "id": 25,
                 "name": "Horse Racing",
@@ -9068,14 +9076,6 @@
                 "sub_name": "",
                 "website_url": "http://www.espn.in/nhl/",
                 "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png"
-              },
-              "sub_30": {
-                "id": 30,
-                "name": "Commonwealth Games Score",
-                "mode": "website",
-                "sub_name": "",
-                "website_url": "http://www.espn.in/commonwealth-games/",
-                "thumbnail_url": "http://a.espncdn.com/i/espn/Misc_logos/500/commonwealth.png"
               }
             },
             "sub_name": "Sports",
