@@ -140,7 +140,7 @@
               "banner_image" : "https://www.flashsaletricks.com/wp-content/uploads/2017/04/Chillr_Refer_Earn_Rs75_24April-1024x451.png",
               "logo_image" : "https://lh3.googleusercontent.com/2AGGvhEWVJ8qHoeDyLFb9rozSvIsBW7uAZcOoiSQ2NHRn-Hp4XkH_53YD6sVqsau5trA=s180-rw",
               "website_url" : "https://gplinks.in/IoijtsbK",
-              "playlist_url1" : "https://raw.githubusercontent.com/PocketIPTV/iptv/main/settings/converted_Channel.json",
+              "playlist_url1" : "https://raw.githubusercontent.com/theantiqa/iptv/main/settings/converted_Channel.json",
               "background_color" : "#ffffff",
               "text_title_color" : "#666666",
               "text_description_color" : "#666666"
@@ -185,6 +185,52 @@
           "is_legal_banner_ads": true,
           "is_initially_ads_container_visible":true,
           "visibility_percentage": 100
+        }
+      },
+
+      "love_guru_message" : {
+        "is_override": false,
+        "message_list": {
+          "msg_1": {
+            "percentage": 10,
+            "message": "Love Guru says You are not made for each others."
+          },
+          "msg_2": {
+            "percentage": 20,
+            "message": "Love Guru says Love means sharing yourself with someone else who accepts you for who you are. Before you can expect someone else to accept you, though, you must know what “self” you are projecting."
+          },
+          "msg_3": {
+            "percentage": 30,
+            "message": "Love Guru suggests that you go ahead. It's the time to take chances and keep the negative thoughts at bay. Explore this person more. Drop in a handwritten note and see your world change!"
+          },
+          "msg_4": {
+            "percentage": 40,
+            "message": "Love Guru suggests that this is the best time to pick up the phone and call this special person. How about a coffee date for starters?"
+          },
+          "msg_5": {
+            "percentage": 50,
+            "message": "Let fate play cupid! Love Guru feels your partner may be feeling a bit neglected for a while. Give him/her the attention that they seek, and enjoy this wonderful time together."
+          },
+          "msg_6": {
+            "percentage": 60,
+            "message": "Does it feels like you have just hit the love jackpot? Love Guru knows that simple things in life are what gives you both joy, so why shy away from it?"
+          },
+          "msg_7": {
+            "percentage": 70,
+            "message": "Both of you are really happy. Love Guru says taking a short vacation would give you both more reasons to rejoice!"
+          },
+          "msg_8": {
+            "percentage": 80,
+            "message": "Their presence makes your life colourful and he/she is the reason behind that splendid smile of yours. A wonderful person like this deserves a sweet treat! How about a yummy cake then?"
+          },
+          "msg_9": {
+            "percentage": 90,
+            "message": "Your partner is your best friend and you cantt take your eyes off each other. Celebrate this awesomeness with a romantic dinner date."
+          },
+          "msg_10": {
+            "percentage": 100,
+            "message": "You make each other complete. Seems like Dr.Love would need advice from you!"
+          }
         }
       },
 
@@ -310,7 +356,7 @@
         "is_override" : false,
         "is_rate_app" : false,
         "package_id" : "com.test.lovecalculator",
-        "rate_app_url" : "https://play.google.com/store/apps/details?id=com.pocketiptv",
+        "rate_app_url" : "https://play.google.com/store/apps/details?id=com.theantiqa",
         "rate_message" : "Please Rate us and promote us."
       },
 
@@ -326,7 +372,7 @@
       {
         "is_override" : false,
         "is_share_app" : true,
-        "share_message_app": "Are you looking best IPTV Player which manage your playlist and play it. then you hurry up and download pocket iptv from here : https://play.google.com/store/apps/details?id=com.pocketiptv",
+        "share_message_app": "Are you looking best IPTV Player which manage your playlist and play it. then you hurry up and download pocket iptv from here : https://play.google.com/store/apps/details?id=com.theantiqa",
         "share_message_link": "Share link url : "
       },
 
@@ -335,7 +381,7 @@
         "is_override" : false,
         "is_official_website" : false,
         "is_system_browser": false,
-        "official_website": "http://www.pocketiptv.com"
+        "official_website": "http://www.theantiqa.com"
       },
 
       "Privacy_Policy":
@@ -343,7 +389,7 @@
         "is_override" : false,
         "is_privacy_policy" : true,
         "is_system_browser": true,
-        "privacy_policy": "http://www.pocketiptv.com/privacy-policy"
+        "privacy_policy": "http://www.theantiqa.com/privacy-policy"
       },
 
       "Splash_Screen":
@@ -379,7 +425,7 @@
         "is_feedback" : true,
 
         "cc_email_id": "",
-        "email_id": "pocketiptv@gmail.com",
+        "email_id": "theantiqa@gmail.com",
         "email_message": "Hi,\n\n\nYour Feedback Pocket IPTV Rocks! I would like to give you some feedback: ",
         "email_subject": "Feedback on Pocket IPTV",
 
@@ -393,7 +439,7 @@
         "is_error_report" : true,
 
         "cc_email_id": "",
-        "email_id": "pocketiptv@gmail.com"
+        "email_id": "theantiqa@gmail.com"
       },
 
       "Social_Support":
