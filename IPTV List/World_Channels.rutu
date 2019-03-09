@@ -8831,7 +8831,7 @@
               "sub_9": {
                 "id": 9,
                 "name": "Cartoons Show",
-                "mode": "website",
+                "mode": "video",
                 "sub_name": "Shows",
                 "is_play_in_youtube" : false,
                 "youtube_search_playlist_keyword": "Cartoon",
