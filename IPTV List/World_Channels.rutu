@@ -8628,7 +8628,7 @@
                 "mode": "video",
                 "sub_name": "",
                 "is_play_in_youtube" : false,
-                "youtube_playlist_id": "UUZRIvleceNUxAQpVQdQwLAg",
+                "youtube_search_playlist_keyword": "Latest Dhollywood Songs",
                 "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Songs/Gujarati.jpg"
               },
               "sub_2": {
@@ -8637,7 +8637,7 @@
                 "mode": "video",
                 "sub_name": "",
                 "is_play_in_youtube" : false,
-                "youtube_playlist_id": "PL4uUU2x5ZgR1JOlcY9SZB94MW6fBE8ovU",
+                "youtube_search_playlist_keyword": "Latest Bollywood Songs",
                 "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Songs/Hindi.jpg"
               },
               "sub_3": {
@@ -8646,7 +8646,7 @@
                 "mode": "video",
                 "sub_name": "",
                 "is_play_in_youtube" : false,
-                "youtube_playlist_id": "PLiDpE5JOXvy3nnDb8ypIJ4e_TuKgTGSiL",
+                "youtube_search_playlist_keyword": "Latest Hollywood Songs",
                 "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Songs/English.jpg"
               },
               "sub_4": {
@@ -8655,7 +8655,7 @@
                 "mode": "video",
                 "sub_name": "",
                 "is_play_in_youtube" : false,
-                "youtube_playlist_id": "PL-oM5qTjmK2vxdTsj2Xghu5fjxhtuMaxo",
+                "youtube_search_playlist_keyword": "Latest Pollywood Songs",
                 "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Songs/Punjabi.jpg"
               },
               "sub_5": {
@@ -8664,7 +8664,7 @@
                 "mode": "video",
                 "sub_name": "",
                 "is_play_in_youtube" : false,
-                "youtube_playlist_id": "PLgT6KlZuvjnkbaXWosnyTcRxXc5yEIpjg",
+                "youtube_search_playlist_keyword": "Latest Bhollywood Songs",
                 "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Songs/Bhojpuri.jpg"
               },
               "sub_6": {
@@ -8673,12 +8673,92 @@
                 "mode": "video",
                 "sub_name": "",
                 "is_play_in_youtube" : false,
-                "youtube_playlist_id": "PL50745DEC00F50131",
+                "youtube_search_playlist_keyword": "Latest Tollyood Songs",
                 "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Songs/Telugu.jpg"
               }
             },
             "sub_name": "Channels",
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Songs.jpeg"
+          },
+          "sub_38": {
+            "id": 38,
+            "name": "Movies",
+            "sub": {
+              "sub_1": {
+                "id": 1,
+                "name": "Dhollywood Movies",
+                "mode": "video",
+                "sub_name": "",
+                "is_play_in_youtube" : false,
+                "youtube_search_playlist_keyword": "Latest Dhollywood Movies",
+                "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Songs/Gujarati.jpg"
+              },
+              "sub_2": {
+                "id": 2,
+                "name": "Bollywood Movies",
+                "mode": "video",
+                "sub_name": "",
+                "is_play_in_youtube" : false,
+                "youtube_search_playlist_keyword": "Latest Bollywood Movies",
+                "thumbnail_url": "https://pngimage.net/wp-content/uploads/2018/05/bollywood-icon-png-9.png"
+              },
+              "sub_3": {
+                "id": 3,
+                "name": "Hollywood Movies",
+                "mode": "video",
+                "sub_name": "",
+                "is_play_in_youtube" : false,
+                "youtube_search_playlist_keyword": "Latest Hollywood Movies",
+                "thumbnail_url": "https://cdn.clipart.email/3475ab7a5fd12ef07002b7c94864ef1e_28-collection-of-old-hollywood-clipart-high-quality-free-_680-472.jpeg"
+              },
+              "sub_4": {
+                "id": 4,
+                "name": "Pollywood Movies",
+                "mode": "video",
+                "sub_name": "",
+                "is_play_in_youtube" : false,
+                "youtube_search_playlist_keyword": "Latest Pollywood Movies",
+                "thumbnail_url": "https://pbs.twimg.com/profile_images/868431027215233024/04GzhTNm_400x400.jpg"
+              },
+              "sub_5": {
+                "id": 5,
+                "name": "Bhollywood Movies",
+                "mode": "video",
+                "sub_name": "",
+                "is_play_in_youtube" : false,
+                "youtube_search_playlist_keyword": "Latest Bhollywood Movies",
+                "thumbnail_url": "https://image.winudf.com/v2/image/YmhvanB1cmlmdWxsaGQuYmhvanB1cmloZG1vdmllX2ljb25fMTUzNzEyNjI5OV8wNzU/icon.png?w=170&fakeurl=1&type=.png"
+              },
+              "sub_6": {
+                "id": 6,
+                "name": "Tollyood Movies",
+                "mode": "video",
+                "sub_name": "",
+                "is_play_in_youtube" : false,
+                "youtube_search_playlist_keyword": "Latest Tollyood Movies",
+                "thumbnail_url": "https://aflicks.com/wp-content/uploads/2017/03/telugu-tollywood-sign-.png"
+              },
+              "sub_7": {
+                "id": 7,
+                "name": "Kollyood Movies",
+                "mode": "video",
+                "sub_name": "",
+                "is_play_in_youtube" : false,
+                "youtube_search_playlist_keyword": "Latest Kollyood Movies",
+                "thumbnail_url": "https://i.pinimg.com/originals/fb/06/cb/fb06cb9b874279357aef148e428e0d42.png"
+              },
+              "sub_8": {
+                "id": 8,
+                "name": "lollyood Movies",
+                "mode": "video",
+                "sub_name": "",
+                "is_play_in_youtube" : false,
+                "youtube_search_playlist_keyword": "Latest Lollyood Movies",
+                "thumbnail_url": "https://pbs.twimg.com/profile_images/842282854612647936/i8smW2Iz_400x400.jpg"
+              }
+            },
+            "sub_name": "Channels",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Movies.jpeg"
           },
           "sub_3": {
             "id": 3,
