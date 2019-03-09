@@ -190,6 +190,7 @@
 
       "love_guru_message" : {
         "is_override": false,
+        "title": "Love Guru Says...",
         "message_list": {
           "msg_1": {
             "percentage": 0,
