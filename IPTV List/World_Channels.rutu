@@ -9,246 +9,6 @@
         "sub_name": "Channels",
         "thumbnail_url": "http://www.4androidapk.net/data/programs/images/cricket-buzz-live-score-fast_8563.png",
         "sub": {
-          "sub_0": {
-            "id": 0,
-            "name": "Live Score Board",
-            "sub": {
-              "sub_1": {
-                "id": 1,
-                "name": "Cricket Score",
-                "mode": "website",
-                "sub_name": "",
-                "website_url": "http://www.espn.in/cricket/",
-                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png"
-              },
-              "sub_2": {
-                "id": 2,
-                "name": "Football Score",
-                "mode": "website",
-                "sub_name": "",
-                "website_url": "http://www.espn.in/football/",
-                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png"
-              },
-              "sub_3": {
-                "id": 3,
-                "name": "Tennis Score",
-                "mode": "website",
-                "sub_name": "",
-                "website_url": "http://www.espn.in/tennis/",
-                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-tennis.png"
-              },
-              "sub_4": {
-                "id": 4,
-                "name": "Badminton Score",
-                "mode": "website",
-                "sub_name": "",
-                "website_url": "http://www.espn.in/badminton/",
-                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-badminton.png"
-              },
-              "sub_5": {
-                "id": 5,
-                "name": "WWE Score",
-                "mode": "website",
-                "sub_name": "",
-                "website_url": "http://www.espn.in/wwe/",
-                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wwe.png"
-              },
-              "sub_6": {
-                "id": 6,
-                "name": "Kabaddi Score",
-                "mode": "website",
-                "sub_name": "",
-                "website_url": "http://www.espn.in/kabaddi/",
-                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-kabaddi.png"
-              },
-              "sub_7": {
-                "id": 7,
-                "name": "Hockey Score",
-                "mode": "website",
-                "sub_name": "",
-                "website_url": "http://www.espn.in/field-hockey/",
-                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-field-hockey.png"
-              },
-              "sub_8": {
-                "id": 4,
-                "name": "Olympics Games",
-                "mode": "website",
-                "sub_name": "",
-                "website_url": "http://www.espn.in/olympics/",
-                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-olympics.png"
-              },
-              "sub_9": {
-                "id": 9,
-                "name": "Asian Games",
-                "mode": "website",
-                "sub_name": "",
-                "website_url": "http://www.espn.in/asian-games/",
-                "thumbnail_url": "http://assets.espn.go.com/i/espn/misc_logos/500/asian_games_2018_icon.png"
-              },
-              "sub_10": {
-                "id": 10,
-                "name": "Snooker Score",
-                "mode": "website",
-                "sub_name": "",
-                "website_url": "http://www.espn.in/snooker/",
-                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-snooker.png"
-              },
-              "sub_11": {
-                "id": 11,
-                "name": "Golf Score",
-                "mode": "website",
-                "sub_name": "",
-                "website_url": "http://www.espn.in/golf/",
-                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-golf.png"
-              },
-              "sub_12": {
-                "id": 12,
-                "name": "NBA Score",
-                "mode": "website",
-                "sub_name": "",
-                "website_url": "http://www.espn.in/nba/",
-                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png"
-              },
-              "sub_13": {
-                "id": 13,
-                "name": "Wrestling Score",
-                "mode": "website",
-                "sub_name": "",
-                "website_url": "http://www.espn.in/wrestling/",
-                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-wrestling.png"
-              },
-              "sub_14": {
-                "id": 14,
-                "name": "College Football Score",
-                "mode": "website",
-                "sub_name": "",
-                "website_url": "http://www.espn.in/college-football/",
-                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-football-college.png"
-              },
-              "sub_15": {
-                "id": 15,
-                "name": "Mens College Basketball Score",
-                "mode": "website",
-                "sub_name": "",
-                "website_url": "http://www.espn.in/mens-college-basketball/",
-                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-basketball.png"
-              },
-              "sub_16": {
-                "id": 16,
-                "name": "Rugby Score",
-                "mode": "website",
-                "sub_name": "",
-                "website_url": "http://www.espn.in/rugby/",
-                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-chess.png"
-              },
-              "sub_17": {
-                "id": 17,
-                "name": "Chess Score",
-                "mode": "website",
-                "sub_name": "",
-                "website_url": "http://www.espn.in/chess/",
-                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-rugby.png"
-              },
-              "sub_18": {
-                "id": 18,
-                "name": "Athletics Score",
-                "mode": "website",
-                "sub_name": "",
-                "website_url": "http://www.espn.in/athletics/",
-                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-track-field.png"
-              },
-              "sub_19": {
-                "id": 19,
-                "name": "NASCAR Score",
-                "mode": "website",
-                "sub_name": "",
-                "website_url": "http://www.espn.in/nascar/",
-                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-nascar.png"
-              },
-              "sub_20": {
-                "id": 20,
-                "name": "Womens Basketball Score",
-                "mode": "website",
-                "sub_name": "",
-                "website_url": "http://www.espn.in/womens-basketball/",
-                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-basketball.png"
-              },
-              "sub_21": {
-                "id": 21,
-                "name": "F1 Score",
-                "mode": "website",
-                "sub_name": "",
-                "website_url": "http://www.espn.in/f1/",
-                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-nascar.png"
-              },
-              "sub_22": {
-                "id": 22,
-                "name": "Esports Score",
-                "mode": "website",
-                "sub_name": "",
-                "website_url": "http://www.espn.in/esports/",
-                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-esports.png"
-              },
-              "sub_23": {
-                "id": 23,
-                "name": "Boxing Score",
-                "mode": "website",
-                "sub_name": "",
-                "website_url": "http://www.espn.in/boxing/",
-                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-boxing.png"
-              },
-              "sub_25": {
-                "id": 25,
-                "name": "Horse Racing",
-                "mode": "website",
-                "sub_name": "",
-                "website_url": "http://www.espn.in/horse-racing/",
-                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-equestrian.png"
-              },
-              "sub_26": {
-                "id": 26,
-                "name": "NFL Score",
-                "mode": "website",
-                "sub_name": "",
-                "website_url": "http://www.espn.in/nfl/",
-                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png"
-              },
-              "sub_27": {
-                "id": 27,
-                "name": "MLB Score",
-                "mode": "website",
-                "sub_name": "",
-                "website_url": "http://www.espn.in/mlb/",
-                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png"
-              },
-              "sub_28": {
-                "id": 28,
-                "name": "MMA Score",
-                "mode": "website",
-                "sub_name": "",
-                "website_url": "http://www.espn.in/mma/",
-                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-mma.png"
-              },
-              "sub_29": {
-                "id": 29,
-                "name": "NHL Score",
-                "mode": "website",
-                "sub_name": "",
-                "website_url": "http://www.espn.in/nhl/",
-                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png"
-              },
-              "sub_30": {
-                "id": 30,
-                "name": "Commonwealth Games Score",
-                "mode": "website",
-                "sub_name": "",
-                "website_url": "http://www.espn.in/commonwealth-games/",
-                "thumbnail_url": "http://a.espncdn.com/i/espn/Misc_logos/500/commonwealth.png"
-              }
-            },
-            "sub_name": "Sports",
-            "thumbnail_url": "https://cdn2.f-cdn.com/contestentries/128313/13103028/54808f043ae14_thumb900.jpg"
-          },
           "sub_1": {
             "id": 1,
             "name": "Sports Live",
@@ -9080,6 +8840,246 @@
             },
             "sub_name": "Channels",
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/TVShows.jpeg"
+          },
+          "sub_40": {
+            "id": 40,
+            "name": "Live Score Board",
+            "sub": {
+              "sub_1": {
+                "id": 1,
+                "name": "Cricket Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/cricket/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png"
+              },
+              "sub_2": {
+                "id": 2,
+                "name": "Football Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/football/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png"
+              },
+              "sub_3": {
+                "id": 3,
+                "name": "Tennis Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/tennis/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-tennis.png"
+              },
+              "sub_4": {
+                "id": 4,
+                "name": "Badminton Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/badminton/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-badminton.png"
+              },
+              "sub_5": {
+                "id": 5,
+                "name": "WWE Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/wwe/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wwe.png"
+              },
+              "sub_6": {
+                "id": 6,
+                "name": "Kabaddi Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/kabaddi/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-kabaddi.png"
+              },
+              "sub_7": {
+                "id": 7,
+                "name": "Hockey Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/field-hockey/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-field-hockey.png"
+              },
+              "sub_8": {
+                "id": 4,
+                "name": "Olympics Games",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/olympics/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-olympics.png"
+              },
+              "sub_9": {
+                "id": 9,
+                "name": "Asian Games",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/asian-games/",
+                "thumbnail_url": "http://assets.espn.go.com/i/espn/misc_logos/500/asian_games_2018_icon.png"
+              },
+              "sub_10": {
+                "id": 10,
+                "name": "Snooker Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/snooker/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-snooker.png"
+              },
+              "sub_11": {
+                "id": 11,
+                "name": "Golf Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/golf/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-golf.png"
+              },
+              "sub_12": {
+                "id": 12,
+                "name": "NBA Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/nba/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png"
+              },
+              "sub_13": {
+                "id": 13,
+                "name": "Wrestling Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/wrestling/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-wrestling.png"
+              },
+              "sub_14": {
+                "id": 14,
+                "name": "College Football Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/college-football/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-football-college.png"
+              },
+              "sub_15": {
+                "id": 15,
+                "name": "Mens College Basketball Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/mens-college-basketball/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-basketball.png"
+              },
+              "sub_16": {
+                "id": 16,
+                "name": "Rugby Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/rugby/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-chess.png"
+              },
+              "sub_17": {
+                "id": 17,
+                "name": "Chess Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/chess/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-rugby.png"
+              },
+              "sub_18": {
+                "id": 18,
+                "name": "Athletics Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/athletics/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-track-field.png"
+              },
+              "sub_19": {
+                "id": 19,
+                "name": "NASCAR Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/nascar/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-nascar.png"
+              },
+              "sub_20": {
+                "id": 20,
+                "name": "Womens Basketball Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/womens-basketball/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-basketball.png"
+              },
+              "sub_21": {
+                "id": 21,
+                "name": "F1 Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/f1/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-nascar.png"
+              },
+              "sub_22": {
+                "id": 22,
+                "name": "Esports Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/esports/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-esports.png"
+              },
+              "sub_23": {
+                "id": 23,
+                "name": "Boxing Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/boxing/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-boxing.png"
+              },
+              "sub_25": {
+                "id": 25,
+                "name": "Horse Racing",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/horse-racing/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-equestrian.png"
+              },
+              "sub_26": {
+                "id": 26,
+                "name": "NFL Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/nfl/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png"
+              },
+              "sub_27": {
+                "id": 27,
+                "name": "MLB Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/mlb/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png"
+              },
+              "sub_28": {
+                "id": 28,
+                "name": "MMA Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/mma/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-mma.png"
+              },
+              "sub_29": {
+                "id": 29,
+                "name": "NHL Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/nhl/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png"
+              },
+              "sub_30": {
+                "id": 30,
+                "name": "Commonwealth Games Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/commonwealth-games/",
+                "thumbnail_url": "http://a.espncdn.com/i/espn/Misc_logos/500/commonwealth.png"
+              }
+            },
+            "sub_name": "Sports",
+            "thumbnail_url": "https://cdn2.f-cdn.com/contestentries/128313/13103028/54808f043ae14_thumb900.jpg"
           },
           "sub_3": {
             "id": 3,
