@@ -8618,6 +8618,68 @@
             "sub_name": "Channels",
             "thumbnail_url": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/Resources/World_TV_Icon/Religious-TV.jpeg"
           },
+          "sub_37": {
+            "id": 37,
+            "name": "Songs",
+            "sub": {
+              "sub_1": {
+                "id": 1,
+                "name": "Gujarati Songs",
+                "mode": "video",
+                "sub_name": "",
+                "is_play_in_youtube" : false,
+                "youtube_playlist_id": "UUZRIvleceNUxAQpVQdQwLAg",
+                "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Songs/Gujarati.jpg"
+              },
+              "sub_2": {
+                "id": 2,
+                "name": "Hindi Songs",
+                "mode": "video",
+                "sub_name": "",
+                "is_play_in_youtube" : false,
+                "youtube_playlist_id": "PL4uUU2x5ZgR1JOlcY9SZB94MW6fBE8ovU",
+                "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Songs/Hindi.jpg"
+              },
+              "sub_3": {
+                "id": 3,
+                "name": "English Songs",
+                "mode": "video",
+                "sub_name": "",
+                "is_play_in_youtube" : false,
+                "youtube_playlist_id": "PLiDpE5JOXvy3nnDb8ypIJ4e_TuKgTGSiL",
+                "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Songs/English.jpg"
+              },
+              "sub_4": {
+                "id": 4,
+                "name": "Punjabi Songs",
+                "mode": "video",
+                "sub_name": "",
+                "is_play_in_youtube" : false,
+                "youtube_playlist_id": "PL-oM5qTjmK2vxdTsj2Xghu5fjxhtuMaxo",
+                "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Songs/Punjabi.jpg"
+              },
+              "sub_5": {
+                "id": 5,
+                "name": "Bhojpuri Songs",
+                "mode": "video",
+                "sub_name": "",
+                "is_play_in_youtube" : false,
+                "youtube_playlist_id": "PLgT6KlZuvjnkbaXWosnyTcRxXc5yEIpjg",
+                "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Songs/Bhojpuri.jpg"
+              },
+              "sub_6": {
+                "id": 6,
+                "name": "Telugu Songs",
+                "mode": "video",
+                "sub_name": "",
+                "is_play_in_youtube" : false,
+                "youtube_playlist_id": "PL50745DEC00F50131",
+                "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Songs/Telugu.jpg"
+              }
+            },
+            "sub_name": "Channels",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Songs.jpeg"
+          },
           "sub_3": {
             "id": 3,
             "name": "Pakistani Live",
