@@ -192,43 +192,43 @@
         "is_override": false,
         "message_list": {
           "msg_1": {
-            "percentage": 10,
+            "percentage": 0,
             "message": "Love Guru says You are not made for each others."
           },
           "msg_2": {
-            "percentage": 20,
+            "percentage": 10,
             "message": "Love Guru says Love means sharing yourself with someone else who accepts you for who you are. Before you can expect someone else to accept you, though, you must know what “self” you are projecting."
           },
           "msg_3": {
-            "percentage": 30,
+            "percentage": 20,
             "message": "Love Guru suggests that you go ahead. It's the time to take chances and keep the negative thoughts at bay. Explore this person more. Drop in a handwritten note and see your world change!"
           },
           "msg_4": {
-            "percentage": 40,
+            "percentage": 30,
             "message": "Love Guru suggests that this is the best time to pick up the phone and call this special person. How about a coffee date for starters?"
           },
           "msg_5": {
-            "percentage": 50,
+            "percentage": 40,
             "message": "Let fate play cupid! Love Guru feels your partner may be feeling a bit neglected for a while. Give him/her the attention that they seek, and enjoy this wonderful time together."
           },
           "msg_6": {
-            "percentage": 60,
+            "percentage": 50,
             "message": "Does it feels like you have just hit the love jackpot? Love Guru knows that simple things in life are what gives you both joy, so why shy away from it?"
           },
           "msg_7": {
-            "percentage": 70,
+            "percentage": 60,
             "message": "Both of you are really happy. Love Guru says taking a short vacation would give you both more reasons to rejoice!"
           },
           "msg_8": {
-            "percentage": 80,
+            "percentage": 70,
             "message": "Their presence makes your life colourful and he/she is the reason behind that splendid smile of yours. A wonderful person like this deserves a sweet treat! How about a yummy cake then?"
           },
           "msg_9": {
-            "percentage": 90,
+            "percentage": 80,
             "message": "Your partner is your best friend and you cantt take your eyes off each other. Celebrate this awesomeness with a romantic dinner date."
           },
           "msg_10": {
-            "percentage": 100,
+            "percentage": 90,
             "message": "You make each other complete. Seems like Dr.Love would need advice from you!"
           }
         }
