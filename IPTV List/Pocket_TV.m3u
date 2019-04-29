@@ -15,23 +15,76 @@
             "sub": {
               "sub_1": {
                 "id": 1,
-                "name": "WWE Network",
+                "name": "Star Sports 2 HD Hindi",
+                "mode": "video",
+                "sub_name": "",
+                "swift_id": 354,
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/95977_starsphd2.jpg"
+              },
+              "sub_2": {
+                "id": 2,
+                "name": "Star Sports 1",
                 "mode": "video",
                 "sub_name": "",
                 "planet_category_id": 38,
-                "planet_channel_id": 1356,
-                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/87423_wwe.jpg"
+                "planet_channel_id": 301,
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54049_starsports1.jpg"
               },
-              "sub_10": {
-                "id": 10,
-                "name": "Arena Sports 2",
+              "sub_3": {
+                "id": 3,
+                "name": "Star Sports 2",
                 "mode": "video",
                 "sub_name": "",
                 "planet_category_id": 38,
-                "planet_channel_id": 1259,
-                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/60939_arena2.jpg"
+                "planet_channel_id": 306,
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/22647_86191_starsports2.jpg"
               },
-              "sub_100": {
+              "sub_4": {
+                "id": 4,
+                "name": "Star Sports 3",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 307,
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/32980_starsports3.jpg"
+              },
+              "sub_5": {
+                "id": 5,
+                "name": "Star Sports First",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 310,
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/65023_starsportsfrist.jpg"
+              },
+              "sub_6": {
+                "id": 6,
+                "name": "Star Sports 1 HD Hindi",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 303,
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/70049_starsp1hindi.jpg"
+              },
+              "sub_7": {
+                "id": 7,
+                "name": "Star Sports Select HD 1",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 312,
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/55095_starselecthd1.jpg"
+              },
+              "sub_8": {
+                "id": 8,
+                "name": "Star Sports Select HD 2",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 314,
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/63286_starselecthd2.jpg"
+              },
+               "sub_100": {
                 "id": 100,
                 "name": "Sport Club 3",
                 "mode": "video",
@@ -117,8 +170,59 @@
                 "planet_channel_id": 264,
                 "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/40463_sportstv5.jpg"
               },
-              "sub_11": {
-                "id": 11,
+              "sub_110": {
+                "id": 110,
+                "name": "WWE Network",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 1356,
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/87423_wwe.jpg"
+              },
+              "sub_111": {
+                "id": 111,
+                "name": "AD Sports 1",
+                "mode": "video",
+                "sub_name": "",
+                "swift_id": 7462,
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/36753_AbuDhabiSport1.jpg"
+              },
+              "sub_112": {
+                "id": 112,
+                "name": "AD Sports 2",
+                "mode": "video",
+                "sub_name": "",
+                "swift_id": 7463,
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/12_AbuDhabiSport2.jpg"
+              },
+              "sub_113": {
+                "id": 113,
+                "name": "Al Kass Sports 4",
+                "mode": "video",
+                "sub_name": "",
+                "swift_id": 7592,
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/62984_alkass4.jpg"
+              },
+              "sub_114": {
+                "id": 114,
+                "name": "Arena Sports 1",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 1261,
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/40045_arena1.jpg"
+              },
+              "sub_115": {
+                "id": 115,
+                "name": "Arena Sports 2",
+                "mode": "video",
+                "sub_name": "",
+                "planet_category_id": 38,
+                "planet_channel_id": 1259,
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/60939_arena2.jpg"
+              },
+              "sub_116": {
+                "id": 116,
                 "name": "Arena Sports 3",
                 "mode": "video",
                 "sub_name": "",
@@ -126,76 +230,13 @@
                 "planet_channel_id": 1260,
                 "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/34424_arena3.jpg"
               },
-              "sub_110": {
-                "id": 110,
-                "name": "Star Sports 1",
-                "mode": "video",
-                "sub_name": "",
-                "planet_category_id": 38,
-                "planet_channel_id": 301,
-                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/54049_starsports1.jpg"
-              },
-              "sub_111": {
-                "id": 111,
-                "name": "Star Sports 2",
-                "mode": "video",
-                "sub_name": "",
-                "planet_category_id": 38,
-                "planet_channel_id": 306,
-                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/22647_86191_starsports2.jpg"
-              },
-              "sub_112": {
-                "id": 112,
-                "name": "Star Sports 3",
-                "mode": "video",
-                "sub_name": "",
-                "planet_category_id": 38,
-                "planet_channel_id": 307,
-                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/32980_starsports3.jpg"
-              },
-              "sub_113": {
-                "id": 113,
-                "name": "Star Sports First",
-                "mode": "video",
-                "sub_name": "",
-                "planet_category_id": 38,
-                "planet_channel_id": 310,
-                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/65023_starsportsfrist.jpg"
-              },
-              "sub_114": {
-                "id": 114,
-                "name": "Star Sports 1 HD Hindi",
-                "mode": "video",
-                "sub_name": "",
-                "planet_category_id": 38,
-                "planet_channel_id": 303,
-                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/70049_starsp1hindi.jpg"
-              },
-              "sub_115": {
-                "id": 115,
-                "name": "Star Sports 2 HD Hindi",
-                "mode": "video",
-                "sub_name": "",
-                "swift_id": 354,
-                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/95977_starsphd2.jpg"
-              },
-              "sub_116": {
-                "id": 116,
-                "name": "Star Sports Select HD 1",
-                "mode": "video",
-                "sub_name": "",
-                "planet_category_id": 38,
-                "planet_channel_id": 312,
-                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/55095_starselecthd1.jpg"
-              },
               "sub_117": {
                 "id": 117,
-                "name": "Star Sports Select HD 2",
+                "name": "Arena Sports 4",
                 "mode": "video",
                 "sub_name": "",
-                "planet_category_id": 38,
-                "planet_channel_id": 314,
-                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/63286_starselecthd2.jpg"
+                "swift_id": 7434,
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/31674_arena4.jpg"
               },
               "sub_118": {
                 "id": 118,
@@ -214,14 +255,6 @@
                 "planet_category_id": 38,
                 "planet_channel_id": 1315,
                 "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/74573_super2.jpg"
-              },
-              "sub_12": {
-                "id": 12,
-                "name": "Arena Sports 4",
-                "mode": "video",
-                "sub_name": "",
-                "swift_id": 7434,
-                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/31674_arena4.jpg"
               },
               "sub_120": {
                 "id": 120,
@@ -439,14 +472,6 @@
                 "planet_channel_id": 779,
                 "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/43193_bein4.jpg"
               },
-              "sub_2": {
-                "id": 2,
-                "name": "AD Sports 1",
-                "mode": "video",
-                "sub_name": "",
-                "swift_id": 7462,
-                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/36753_AbuDhabiSport1.jpg"
-              },
               "sub_20": {
                 "id": 20,
                 "name": "beIN News 5",
@@ -526,23 +551,6 @@
                 "sub_name": "",
                 "swift_id": 7394,
                 "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/82405_beinusa.jpg"
-              },
-              "sub_29": {
-                "id": 29,
-                "name": "BOX Nation",
-                "mode": "video",
-                "sub_name": "",
-                "planet_category_id": 38,
-                "planet_channel_id": 275,
-                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/18586_boxnation1.jpg"
-              },
-              "sub_3": {
-                "id": 3,
-                "name": "AD Sports 2",
-                "mode": "video",
-                "sub_name": "",
-                "swift_id": 7463,
-                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/12_AbuDhabiSport2.jpg"
               },
               "sub_30": {
                 "id": 30,
@@ -882,13 +890,14 @@
                 "swift_id": 7831,
                 "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/32734_osnsp4.jpg"
               },
-              "sub_7": {
-                "id": 7,
-                "name": "Al Kass Sports 4",
+              "sub_29": {
+                "id": 29,
+                "name": "BOX Nation",
                 "mode": "video",
                 "sub_name": "",
-                "swift_id": 7592,
-                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/62984_alkass4.jpg"
+                "planet_category_id": 38,
+                "planet_channel_id": 275,
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/18586_boxnation1.jpg"
               },
               "sub_70": {
                 "id": 70,
@@ -1052,15 +1061,6 @@
                 "planet_category_id": 38,
                 "planet_channel_id": 253,
                 "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/17287_skyarena.jpg"
-              },
-              "sub_9": {
-                "id": 9,
-                "name": "Arena Sports 1",
-                "mode": "video",
-                "sub_name": "",
-                "planet_category_id": 38,
-                "planet_channel_id": 1261,
-                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/40045_arena1.jpg"
               },
               "sub_90": {
                 "id": 90,
@@ -8955,6 +8955,469 @@
             },
             "sub_name": "Channels",
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Religious-TV.jpeg?alt=media&token=0bee1819-6c8c-4fd0-b45f-715a50d336a0"
+          },
+          "sub_37": {
+            "id": 37,
+            "name": "Songs",
+            "sub": {
+              "sub_1": {
+                "id": 1,
+                "name": "Gujarati Songs",
+                "mode": "video",
+                "sub_name": "",
+                "is_play_in_youtube" : false,
+                "youtube_search_playlist_keyword": "Latest Dhollywood Songs",
+                "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Songs/Gujarati.jpg"
+              },
+              "sub_2": {
+                "id": 2,
+                "name": "Hindi Songs",
+                "mode": "video",
+                "sub_name": "",
+                "is_play_in_youtube" : false,
+                "youtube_search_playlist_keyword": "Latest Bollywood Songs",
+                "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Songs/Hindi.jpg"
+              },
+              "sub_3": {
+                "id": 3,
+                "name": "English Songs",
+                "mode": "video",
+                "sub_name": "",
+                "is_play_in_youtube" : false,
+                "youtube_search_playlist_keyword": "Latest Hollywood Songs",
+                "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Songs/English.jpg"
+              },
+              "sub_4": {
+                "id": 4,
+                "name": "Punjabi Songs",
+                "mode": "video",
+                "sub_name": "",
+                "is_play_in_youtube" : false,
+                "youtube_search_playlist_keyword": "Latest Pollywood Songs",
+                "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Songs/Punjabi.jpg"
+              },
+              "sub_5": {
+                "id": 5,
+                "name": "Bhojpuri Songs",
+                "mode": "video",
+                "sub_name": "",
+                "is_play_in_youtube" : false,
+                "youtube_search_playlist_keyword": "Latest Bhollywood Songs",
+                "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Songs/Bhojpuri.jpg"
+              },
+              "sub_6": {
+                "id": 6,
+                "name": "Telugu Songs",
+                "mode": "video",
+                "sub_name": "",
+                "is_play_in_youtube" : false,
+                "youtube_search_playlist_keyword": "Latest Tollyood Songs",
+                "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Songs/Telugu.jpg"
+              }
+            },
+            "sub_name": "Channels",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Songs.jpeg"
+          },
+          "sub_38": {
+            "id": 38,
+            "name": "Movies",
+            "sub": {
+              "sub_1": {
+                "id": 1,
+                "name": "Dhollywood Movies",
+                "mode": "video",
+                "sub_name": "",
+                "is_play_in_youtube" : false,
+                "youtube_search_playlist_keyword": "Latest Dhollywood Movies",
+                "thumbnail_url": "https://i.pinimg.com/originals/58/de/68/58de68655a34ec75f5205f54bcd63423.png"
+              },
+              "sub_2": {
+                "id": 2,
+                "name": "Bollywood Movies",
+                "mode": "video",
+                "sub_name": "",
+                "is_play_in_youtube" : false,
+                "youtube_search_playlist_keyword": "Latest Bollywood Movies",
+                "thumbnail_url": "https://pngimage.net/wp-content/uploads/2018/05/bollywood-icon-png-9.png"
+              },
+              "sub_3": {
+                "id": 3,
+                "name": "Hollywood Movies",
+                "mode": "video",
+                "sub_name": "",
+                "is_play_in_youtube" : false,
+                "youtube_search_playlist_keyword": "Latest Hollywood Movies",
+                "thumbnail_url": "https://cdn.clipart.email/3475ab7a5fd12ef07002b7c94864ef1e_28-collection-of-old-hollywood-clipart-high-quality-free-_680-472.jpeg"
+              },
+              "sub_4": {
+                "id": 4,
+                "name": "Pollywood Movies",
+                "mode": "video",
+                "sub_name": "",
+                "is_play_in_youtube" : false,
+                "youtube_search_playlist_keyword": "Latest Pollywood Movies",
+                "thumbnail_url": "https://pbs.twimg.com/profile_images/868431027215233024/04GzhTNm_400x400.jpg"
+              },
+              "sub_5": {
+                "id": 5,
+                "name": "Bhollywood Movies",
+                "mode": "video",
+                "sub_name": "",
+                "is_play_in_youtube" : false,
+                "youtube_search_playlist_keyword": "Latest Bhollywood Movies",
+                "thumbnail_url": "https://image.winudf.com/v2/image/YmhvanB1cmlmdWxsaGQuYmhvanB1cmloZG1vdmllX2ljb25fMTUzNzEyNjI5OV8wNzU/icon.png?w=170&fakeurl=1&type=.png"
+              },
+              "sub_6": {
+                "id": 6,
+                "name": "Tollyood Movies",
+                "mode": "video",
+                "sub_name": "",
+                "is_play_in_youtube" : false,
+                "youtube_search_playlist_keyword": "Latest Tollyood Movies",
+                "thumbnail_url": "https://aflicks.com/wp-content/uploads/2017/03/telugu-tollywood-sign-.png"
+              },
+              "sub_7": {
+                "id": 7,
+                "name": "Kollyood Movies",
+                "mode": "video",
+                "sub_name": "",
+                "is_play_in_youtube" : false,
+                "youtube_search_playlist_keyword": "Latest Kollyood Movies",
+                "thumbnail_url": "https://i.pinimg.com/originals/fb/06/cb/fb06cb9b874279357aef148e428e0d42.png"
+              },
+              "sub_8": {
+                "id": 8,
+                "name": "lollyood Movies",
+                "mode": "video",
+                "sub_name": "",
+                "is_play_in_youtube" : false,
+                "youtube_search_playlist_keyword": "Latest Lollyood Movies",
+                "thumbnail_url": "https://pbs.twimg.com/profile_images/842282854612647936/i8smW2Iz_400x400.jpg"
+              }
+            },
+            "sub_name": "Channels",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Movies.jpeg"
+          },
+          "sub_39": {
+            "id": 39,
+            "name": "TV Shows",
+            "sub": {
+              "sub_1": {
+                "id": 1,
+                "name": "SAB TV",
+                "mode": "website",
+                "sub_name": "Shows",
+                "website_url": "https://www.sonyliv.com/listing/sab_shows",
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/26097_sonysabhdnew.jpg"
+              },
+              "sub_2": {
+                "id": 2,
+                "name": "SONY TV",
+                "mode": "website",
+                "sub_name": "Shows",
+                "website_url": "https://www.sonyliv.com/listing/set_shows",
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/21594_SONYTVHD.jpg"
+              },
+              "sub_3": {
+                "id": 3,
+                "name": "STAR PLUS",
+                "mode": "website",
+                "sub_name": "Shows",
+                "website_url": "https://www.hotstar.com/channels/starplus",
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/84270_StarPluseHD.jpg"
+              },
+              "sub_4": {
+                "id": 4,
+                "name": "COLORS TV",
+                "mode": "website",
+                "sub_name": "Shows",
+                "website_url": "https://www.voot.com/channels/colors-hindi",
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/13880_ColorsHD.jpg"
+              },
+              "sub_5": {
+                "id": 5,
+                "name": "ZEE TV",
+                "mode": "website",
+                "sub_name": "Shows",
+                "website_url": "https://www.zee5.com/tvshows/all",
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/17085_zeetvhdnew.jpg"
+              },
+              "sub_6": {
+                "id": 6,
+                "name": "LIFE OK",
+                "mode": "website",
+                "sub_name": "Shows",
+                "website_url": "https://www.hotstar.com/channels/life-ok",
+                "thumbnail_url": "http://www.kinkylittleboots.com/wp-content/uploads/2016/12/Life_OK_channel_logo-300x142.png"
+              },
+              "sub_7": {
+                "id": 7,
+                "name": "& TV",
+                "mode": "website",
+                "sub_name": "Shows",
+                "website_url": "https://www.zee5.com/tvshows",
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/74170_ANDTVHD.jpg"
+              },
+              "sub_8": {
+                "id": 8,
+                "name": "MTV",
+                "mode": "website",
+                "sub_name": "Shows",
+                "website_url": "https://www.voot.com/channels/mtv",
+                "thumbnail_url": "http://userlogos.org/files/logos/danger83/mtvlogoblack.png"
+              },
+              "sub_9": {
+                "id": 9,
+                "name": "Cartoons Show",
+                "mode": "video",
+                "sub_name": "Shows",
+                "is_play_in_youtube" : false,
+                "youtube_search_playlist_keyword": "Cartoon",
+                "thumbnail_url": "http://www.fbcportcharlotte.com/hp_wordpress/wp-content/uploads/2018/10/First-KIDZ-ZONE-adjusted-Logo-300x165.png"
+              }
+            },
+            "sub_name": "Channels",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/TVShows.jpeg"
+          },
+          "sub_40": {
+            "id": 40,
+            "name": "Live Score Board",
+            "sub": {
+              "sub_1": {
+                "id": 1,
+                "name": "Cricket Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/cricket/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-cricket.png"
+              },
+              "sub_2": {
+                "id": 2,
+                "name": "Football Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/football/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png"
+              },
+              "sub_3": {
+                "id": 3,
+                "name": "Tennis Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/tennis/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-tennis.png"
+              },
+              "sub_4": {
+                "id": 4,
+                "name": "Badminton Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/badminton/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-badminton.png"
+              },
+              "sub_5": {
+                "id": 5,
+                "name": "WWE Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/wwe/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wwe.png"
+              },
+              "sub_6": {
+                "id": 6,
+                "name": "Kabaddi Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/kabaddi/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-kabaddi.png"
+              },
+              "sub_7": {
+                "id": 7,
+                "name": "Hockey Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/field-hockey/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-field-hockey.png"
+              },
+              "sub_8": {
+                "id": 4,
+                "name": "Olympics Games",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/olympics/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-olympics.png"
+              },
+              "sub_9": {
+                "id": 9,
+                "name": "Asian Games",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/asian-games/",
+                "thumbnail_url": "http://assets.espn.go.com/i/espn/misc_logos/500/asian_games_2018_icon.png"
+              },
+              "sub_10": {
+                "id": 10,
+                "name": "Snooker Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/snooker/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-snooker.png"
+              },
+              "sub_11": {
+                "id": 11,
+                "name": "Golf Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/golf/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-golf.png"
+              },
+              "sub_12": {
+                "id": 12,
+                "name": "NBA Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/nba/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png"
+              },
+              "sub_13": {
+                "id": 13,
+                "name": "Wrestling Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/wrestling/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-wrestling.png"
+              },
+              "sub_14": {
+                "id": 14,
+                "name": "College Football Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/college-football/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-football-college.png"
+              },
+              "sub_15": {
+                "id": 15,
+                "name": "Mens College Basketball Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/mens-college-basketball/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-basketball.png"
+              },
+              "sub_16": {
+                "id": 16,
+                "name": "Rugby Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/rugby/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-chess.png"
+              },
+              "sub_17": {
+                "id": 17,
+                "name": "Chess Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/chess/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-rugby.png"
+              },
+              "sub_18": {
+                "id": 18,
+                "name": "Athletics Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/athletics/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-track-field.png"
+              },
+              "sub_19": {
+                "id": 19,
+                "name": "NASCAR Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/nascar/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-nascar.png"
+              },
+              "sub_20": {
+                "id": 20,
+                "name": "Womens Basketball Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/womens-basketball/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-basketball.png"
+              },
+              "sub_21": {
+                "id": 21,
+                "name": "F1 Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/f1/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-nascar.png"
+              },
+              "sub_22": {
+                "id": 22,
+                "name": "Esports Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/esports/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-esports.png"
+              },
+              "sub_23": {
+                "id": 23,
+                "name": "Boxing Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/boxing/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-boxing.png"
+              },
+              "sub_24": {
+                "id": 24,
+                "name": "Commonwealth Games Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/commonwealth-games/",
+                "thumbnail_url": "http://a.espncdn.com/i/espn/Misc_logos/500/commonwealth.png"
+              },
+              "sub_25": {
+                "id": 25,
+                "name": "Horse Racing",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/horse-racing/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-equestrian.png"
+              },
+              "sub_26": {
+                "id": 26,
+                "name": "NFL Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/nfl/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png"
+              },
+              "sub_27": {
+                "id": 27,
+                "name": "MLB Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/mlb/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png"
+              },
+              "sub_28": {
+                "id": 28,
+                "name": "MMA Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/mma/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-mma.png"
+              },
+              "sub_29": {
+                "id": 29,
+                "name": "NHL Score",
+                "mode": "website",
+                "sub_name": "",
+                "website_url": "http://www.espn.in/nhl/",
+                "thumbnail_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png"
+              }
+            },
+            "sub_name": "Sports",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Live-Score.jpg"
           },
           "sub_3": {
             "id": 3,
