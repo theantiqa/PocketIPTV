@@ -15,11 +15,12 @@
             "sub": {
               "sub_1": {
                 "id": 1,
-                "name": "Star Sports 2 HD Hindi",
+                "name": "Star Sports 1 HD Hindi",
                 "mode": "video",
                 "sub_name": "",
-                "swift_id": 354,
-                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/95977_starsphd2.jpg"
+                "planet_category_id": 38,
+                "planet_channel_id": 303,
+                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/70049_starsp1hindi.jpg"
               },
               "sub_2": {
                 "id": 2,
@@ -56,15 +57,6 @@
                 "planet_category_id": 38,
                 "planet_channel_id": 310,
                 "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/65023_starsportsfrist.jpg"
-              },
-              "sub_6": {
-                "id": 6,
-                "name": "Star Sports 1 HD Hindi",
-                "mode": "video",
-                "sub_name": "",
-                "planet_category_id": 38,
-                "planet_channel_id": 303,
-                "thumbnail_url": "http://swiftstreamz.com/SwiftLive/images/70049_starsp1hindi.jpg"
               },
               "sub_7": {
                 "id": 7,
