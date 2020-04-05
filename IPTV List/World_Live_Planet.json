@@ -13,1220 +13,6 @@
         "sub": {
           "main_sub_0": {
             "id": 0,
-            "name": "Sports TV",
-            "sub_name": "Channels",
-            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Sports-TV.jpeg",
-            "sub": {
-              "sub_0": {
-                "id": 0,
-                "mode": "video",
-                "name": "BEIN 1",
-                "planet_category_id": "38",
-                "planet_channel_id": "747",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/1065_19569_ben1.jpg"
-              },
-              "sub_1": {
-                "id": 1,
-                "mode": "video",
-                "name": "BEIN 1 SD",
-                "planet_category_id": "38",
-                "planet_channel_id": "771",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/95507_26007_bein1sd.jpg"
-              },
-              "sub_2": {
-                "id": 2,
-                "mode": "video",
-                "name": "BEIN 10 SD",
-                "planet_category_id": "38",
-                "planet_channel_id": "789",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/13089_77802_bein10sd.jpg"
-              },
-              "sub_3": {
-                "id": 3,
-                "mode": "video",
-                "name": "BEIN 11",
-                "planet_category_id": "38",
-                "planet_channel_id": "767",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/15043_37997_bein11.jpg"
-              },
-              "sub_4": {
-                "id": 4,
-                "mode": "video",
-                "name": "BEIN 11SD",
-                "planet_category_id": "38",
-                "planet_channel_id": "794",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/81009_37997_bein11.jpg"
-              },
-              "sub_5": {
-                "id": 5,
-                "mode": "video",
-                "name": "BEIN 12",
-                "planet_category_id": "38",
-                "planet_channel_id": "768",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/89012_5758_bein12 (2).jpg"
-              },
-              "sub_6": {
-                "id": 6,
-                "mode": "video",
-                "name": "BEIN 12 SD",
-                "planet_category_id": "38",
-                "planet_channel_id": "795",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/20575_20870_bein12sd (1).jpg"
-              },
-              "sub_7": {
-                "id": 7,
-                "mode": "video",
-                "name": "BEIN 1TURKEY",
-                "planet_category_id": "38",
-                "planet_channel_id": "796",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/87942_23873_bein1tr (1).jpg"
-              },
-              "sub_8": {
-                "id": 8,
-                "mode": "video",
-                "name": "BEIN 2",
-                "planet_category_id": "38",
-                "planet_channel_id": "748",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/68014_67308_bein2.jpg"
-              },
-              "sub_9": {
-                "id": 9,
-                "mode": "video",
-                "name": "BEIN 2 TURKEY",
-                "planet_category_id": "38",
-                "planet_channel_id": "797",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/45817_69623_bein2tr.jpg"
-              },
-              "sub_10": {
-                "id": 10,
-                "mode": "video",
-                "name": "BEIN 3",
-                "planet_category_id": "38",
-                "planet_channel_id": "750",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/71121_39971_bein3.jpg"
-              },
-              "sub_11": {
-                "id": 11,
-                "mode": "video",
-                "name": "BEIN 3 TURKEY",
-                "planet_category_id": "38",
-                "planet_channel_id": "798",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/35496_95386_bein3tr.jpg"
-              },
-              "sub_12": {
-                "id": 12,
-                "mode": "video",
-                "name": "BEIN 4",
-                "planet_category_id": "38",
-                "planet_channel_id": "753",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/71315_43193_bein4.jpg"
-              },
-              "sub_13": {
-                "id": 13,
-                "mode": "video",
-                "name": "BEIN 5",
-                "planet_category_id": "38",
-                "planet_channel_id": "755",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/97184_1093_bein5 (1).jpg"
-              },
-              "sub_14": {
-                "id": 14,
-                "mode": "video",
-                "name": "BEIN 6",
-                "planet_category_id": "38",
-                "planet_channel_id": "756",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/29445_10061_bein6 (1).jpg"
-              },
-              "sub_15": {
-                "id": 15,
-                "mode": "video",
-                "name": "BEIN 7",
-                "planet_category_id": "38",
-                "planet_channel_id": "757",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/98783_6981_bein7 (1).jpg"
-              },
-              "sub_16": {
-                "id": 16,
-                "mode": "video",
-                "name": "BEIN 8",
-                "planet_category_id": "38",
-                "planet_channel_id": "763",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/77255_98831_bein8.jpg"
-              },
-              "sub_17": {
-                "id": 17,
-                "mode": "video",
-                "name": "BEIN 9",
-                "planet_category_id": "38",
-                "planet_channel_id": "765",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/59264_97544_bein9.jpg"
-              },
-              "sub_18": {
-                "id": 18,
-                "mode": "video",
-                "name": "BEIN 9 SD",
-                "planet_category_id": "38",
-                "planet_channel_id": "788",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/32067_26925_bein9sd.jpg"
-              },
-              "sub_19": {
-                "id": 19,
-                "mode": "video",
-                "name": "Bein SD 2",
-                "planet_category_id": "38",
-                "planet_channel_id": "777",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/64027_54417_bein2sd.jpg"
-              },
-              "sub_20": {
-                "id": 20,
-                "mode": "video",
-                "name": "Bein SD 3",
-                "planet_category_id": "38",
-                "planet_channel_id": "778",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/77001_46251_bein3sd.jpg"
-              },
-              "sub_21": {
-                "id": 21,
-                "mode": "video",
-                "name": "Bein SD 4",
-                "planet_category_id": "38",
-                "planet_channel_id": "779",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/94212_99595_bein4sd.jpg"
-              },
-              "sub_22": {
-                "id": 22,
-                "mode": "video",
-                "name": "Bein SD 5",
-                "planet_category_id": "38",
-                "planet_channel_id": "781",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/4534_97730_bein5sd.jpg"
-              },
-              "sub_23": {
-                "id": 23,
-                "mode": "video",
-                "name": "BEIN SD 6",
-                "planet_category_id": "38",
-                "planet_channel_id": "783",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/54025_7354_bein6sd (1).jpg"
-              },
-              "sub_24": {
-                "id": 24,
-                "mode": "video",
-                "name": "Bein SD 7",
-                "planet_category_id": "38",
-                "planet_channel_id": "785",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/37088_12005_bein7sd (1).jpg"
-              },
-              "sub_25": {
-                "id": 25,
-                "mode": "video",
-                "name": "BEIN SD 8",
-                "planet_category_id": "38",
-                "planet_channel_id": "786",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/6115_56885_bein8sd.jpg"
-              },
-              "sub_26": {
-                "id": 26,
-                "mode": "video",
-                "name": "BENFICA TV",
-                "planet_category_id": "38",
-                "planet_channel_id": "273",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/93078_28736_beinficatv.jpg"
-              },
-              "sub_27": {
-                "id": 27,
-                "mode": "video",
-                "name": "BEOUTQ 1",
-                "planet_category_id": "38",
-                "planet_channel_id": "1509",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/14725_t66rZsc.png"
-              },
-              "sub_28": {
-                "id": 28,
-                "mode": "video",
-                "name": "BEOUTQ 2",
-                "planet_category_id": "38",
-                "planet_channel_id": "1508",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/81542_2.png"
-              },
-              "sub_29": {
-                "id": 29,
-                "mode": "video",
-                "name": "BEOUTQ 3",
-                "planet_category_id": "38",
-                "planet_channel_id": "1510",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/79618_3.png"
-              },
-              "sub_30": {
-                "id": 30,
-                "mode": "video",
-                "name": "BEOUTQ 4",
-                "planet_category_id": "38",
-                "planet_channel_id": "1511",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/39392_4.png"
-              },
-              "sub_31": {
-                "id": 31,
-                "mode": "video",
-                "name": "BEOUTQ 5",
-                "planet_category_id": "38",
-                "planet_channel_id": "1512",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/26535_5.png"
-              },
-              "sub_32": {
-                "id": 32,
-                "mode": "video",
-                "name": "BEOUTQ 6",
-                "planet_category_id": "38",
-                "planet_channel_id": "1513",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/55261_6.png"
-              },
-              "sub_33": {
-                "id": 33,
-                "mode": "video",
-                "name": "BEOUTQ 7",
-                "planet_category_id": "38",
-                "planet_channel_id": "1514",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/40410_7.png"
-              },
-              "sub_34": {
-                "id": 34,
-                "mode": "video",
-                "name": "BOX NATION",
-                "planet_category_id": "38",
-                "planet_channel_id": "275",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/85726_18586_boxnation1.jpg"
-              },
-              "sub_35": {
-                "id": 35,
-                "mode": "video",
-                "name": "BT 1 HD",
-                "planet_category_id": "38",
-                "planet_channel_id": "237",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/62370_2616_bt1hd.jpg"
-              },
-              "sub_36": {
-                "id": 36,
-                "mode": "video",
-                "name": "BT 1 SD",
-                "planet_category_id": "38",
-                "planet_channel_id": "236",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/9145_37398_bt1sd.jpg"
-              },
-              "sub_37": {
-                "id": 37,
-                "mode": "video",
-                "name": "BT 2 HD",
-                "planet_category_id": "38",
-                "planet_channel_id": "239",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/26639_11753_bt2hd.jpg"
-              },
-              "sub_38": {
-                "id": 38,
-                "mode": "video",
-                "name": "BT 2 SD",
-                "planet_category_id": "38",
-                "planet_channel_id": "238",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/50122_68899_bt2sd.jpg"
-              },
-              "sub_39": {
-                "id": 39,
-                "mode": "video",
-                "name": "BT 3 HD",
-                "planet_category_id": "38",
-                "planet_channel_id": "241",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/50393_45096_bt3hd.jpg"
-              },
-              "sub_40": {
-                "id": 40,
-                "mode": "video",
-                "name": "BT 3 SD",
-                "planet_category_id": "38",
-                "planet_channel_id": "240",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/38945_16192_bt3sd.jpg"
-              },
-              "sub_41": {
-                "id": 41,
-                "mode": "video",
-                "name": "BT SPORTS 1",
-                "planet_category_id": "38",
-                "planet_channel_id": "242",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/6294_49801_bt1.jpg"
-              },
-              "sub_42": {
-                "id": 42,
-                "mode": "video",
-                "name": "BT SPORTS 2",
-                "planet_category_id": "38",
-                "planet_channel_id": "243",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/68344_76380_bt2.jpg"
-              },
-              "sub_43": {
-                "id": 43,
-                "mode": "video",
-                "name": "BT SPORTS 3",
-                "planet_category_id": "38",
-                "planet_channel_id": "244",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/69572_71456_bt3.jpg"
-              },
-              "sub_44": {
-                "id": 44,
-                "mode": "video",
-                "name": "CHELSEA TV",
-                "planet_category_id": "38",
-                "planet_channel_id": "245",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/40033_95200_chelseatv.jpg"
-              },
-              "sub_45": {
-                "id": 45,
-                "mode": "video",
-                "name": "DD SPORTS",
-                "planet_category_id": "38",
-                "planet_channel_id": "799",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/92872_6257_ddsports.jpg"
-              },
-              "sub_46": {
-                "id": 46,
-                "mode": "video",
-                "name": "EIR SPORTS",
-                "planet_category_id": "38",
-                "planet_channel_id": "800",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/97399_64988_eirsp1.jpg"
-              },
-              "sub_47": {
-                "id": 47,
-                "mode": "video",
-                "name": "EIR SPORTS 2",
-                "planet_category_id": "38",
-                "planet_channel_id": "801",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/8019_1591_eirsp2 (1).jpg"
-              },
-              "sub_48": {
-                "id": 48,
-                "mode": "video",
-                "name": "ESPN",
-                "planet_category_id": "38",
-                "planet_channel_id": "802",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/73890_27554_espn.jpg"
-              },
-              "sub_49": {
-                "id": 49,
-                "mode": "video",
-                "name": "EURO SPORTS 1",
-                "planet_category_id": "38",
-                "planet_channel_id": "246",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/43671_88101_euro1.jpg"
-              },
-              "sub_50": {
-                "id": 50,
-                "mode": "video",
-                "name": "EURO SPORTS 2",
-                "planet_category_id": "38",
-                "planet_channel_id": "247",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/14864_23126_euro2.jpg"
-              },
-              "sub_51": {
-                "id": 51,
-                "mode": "video",
-                "name": "FOX SPORTS 1",
-                "planet_category_id": "38",
-                "planet_channel_id": "914",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/91003_69943_foxspusa1.jpg"
-              },
-              "sub_52": {
-                "id": 52,
-                "mode": "video",
-                "name": "FOX SPORTS 2",
-                "planet_category_id": "38",
-                "planet_channel_id": "915",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/37535_75594_foxspusa2.jpg"
-              },
-              "sub_53": {
-                "id": 53,
-                "mode": "video",
-                "name": "GEO SUPER",
-                "planet_category_id": "38",
-                "planet_channel_id": "234",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/92789_6016_geosuper.jpg"
-              },
-              "sub_54": {
-                "id": 54,
-                "mode": "video",
-                "name": "LFC",
-                "planet_category_id": "38",
-                "planet_channel_id": "280",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/85936_9955_lfc.jpg"
-              },
-              "sub_55": {
-                "id": 55,
-                "mode": "video",
-                "name": "MBC PRO 2",
-                "planet_category_id": "38",
-                "planet_channel_id": "1517",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/39045_download.png"
-              },
-              "sub_56": {
-                "id": 56,
-                "mode": "video",
-                "name": "MBC PRO 3",
-                "planet_category_id": "38",
-                "planet_channel_id": "1518",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/25956_mbc3.jpg"
-              },
-              "sub_57": {
-                "id": 57,
-                "mode": "video",
-                "name": "MBC PRO 4",
-                "planet_category_id": "38",
-                "planet_channel_id": "1519",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/52531_mbc 4.jpg"
-              },
-              "sub_58": {
-                "id": 58,
-                "mode": "video",
-                "name": "MBC PRO1",
-                "planet_category_id": "38",
-                "planet_channel_id": "1516",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/8889_mbc-pro-sports1.jpg"
-              },
-              "sub_59": {
-                "id": 59,
-                "mode": "video",
-                "name": "MUTV",
-                "planet_category_id": "38",
-                "planet_channel_id": "281",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/45033_12395_mutv.jpg"
-              },
-              "sub_60": {
-                "id": 60,
-                "mode": "video",
-                "name": "NBA HD",
-                "planet_category_id": "38",
-                "planet_channel_id": "916",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/73401_62252_nbatv.jpg"
-              },
-              "sub_61": {
-                "id": 61,
-                "mode": "video",
-                "name": "NBC GOLF",
-                "planet_category_id": "38",
-                "planet_channel_id": "1520",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/90816_NBC olf.png"
-              },
-              "sub_62": {
-                "id": 62,
-                "mode": "video",
-                "name": "NBC SN",
-                "planet_category_id": "38",
-                "planet_channel_id": "913",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/8476_45155_nbcsn.jpg"
-              },
-              "sub_63": {
-                "id": 63,
-                "mode": "video",
-                "name": "NEO Prime",
-                "planet_category_id": "38",
-                "planet_channel_id": "1521",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/51268_neo.jpg"
-              },
-              "sub_64": {
-                "id": 64,
-                "mode": "video",
-                "name": "NFL NETWORK",
-                "planet_category_id": "38",
-                "planet_channel_id": "744",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/40503_48206_nflnetwork.jpg"
-              },
-              "sub_65": {
-                "id": 65,
-                "mode": "video",
-                "name": "OSNSPORT1",
-                "planet_category_id": "38",
-                "planet_channel_id": "1285",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/72677_20130820160337_channelsbig.png"
-              },
-              "sub_66": {
-                "id": 66,
-                "mode": "video",
-                "name": "PREMIER SP",
-                "planet_category_id": "38",
-                "planet_channel_id": "277",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/19189_39093_premiersports.jpg"
-              },
-              "sub_67": {
-                "id": 67,
-                "mode": "video",
-                "name": "PTV SPORTS",
-                "planet_category_id": "38",
-                "planet_channel_id": "231",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/64598_14060_ptvsportsnew.jpg"
-              },
-              "sub_68": {
-                "id": 68,
-                "mode": "video",
-                "name": "S SPOR",
-                "planet_category_id": "38",
-                "planet_channel_id": "740",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/57318_18048_sportstv3tr (1).jpg"
-              },
-              "sub_69": {
-                "id": 69,
-                "mode": "video",
-                "name": "SFR SP 1",
-                "planet_category_id": "38",
-                "planet_channel_id": "267",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/11778_38228_sfrsp1.jpg"
-              },
-              "sub_70": {
-                "id": 70,
-                "mode": "video",
-                "name": "SFR SP2",
-                "planet_category_id": "38",
-                "planet_channel_id": "268",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/75612_45282_sfrsp2.jpg"
-              },
-              "sub_71": {
-                "id": 71,
-                "mode": "video",
-                "name": "SFR SP3",
-                "planet_category_id": "38",
-                "planet_channel_id": "270",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/66839_76664_sfrsp3.jpg"
-              },
-              "sub_72": {
-                "id": 72,
-                "mode": "video",
-                "name": "SKY LEGAUE(Server 2)",
-                "planet_category_id": "38",
-                "planet_channel_id": "1528",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/33614_72149_skysppreleague.jpg"
-              },
-              "sub_73": {
-                "id": 73,
-                "mode": "video",
-                "name": "SKY MAIN EVENT(Server 2)",
-                "planet_category_id": "38",
-                "planet_channel_id": "1525",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/74208_43621_skymainevent.jpg"
-              },
-              "sub_74": {
-                "id": 74,
-                "mode": "video",
-                "name": "SKY MAIN EVENT(Server 3)",
-                "planet_category_id": "38",
-                "planet_channel_id": "1526",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/50291_43621_skymainevent.jpg"
-              },
-              "sub_75": {
-                "id": 75,
-                "mode": "video",
-                "name": "SKY MAIN EVENT(Server 4)",
-                "planet_category_id": "38",
-                "planet_channel_id": "1527",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/86539_43621_skymainevent.jpg"
-              },
-              "sub_76": {
-                "id": 76,
-                "mode": "video",
-                "name": "SKY MAIN EVENT(Server 5)",
-                "planet_category_id": "38",
-                "planet_channel_id": "1532",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/74548_43621_skymainevent.jpg"
-              },
-              "sub_77": {
-                "id": 77,
-                "mode": "video",
-                "name": "SKY MAIN EVENT(Server 6)",
-                "planet_category_id": "38",
-                "planet_channel_id": "1533",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/27507_43621_skymainevent.jpg"
-              },
-              "sub_78": {
-                "id": 78,
-                "mode": "video",
-                "name": "SKY SP 1DE",
-                "planet_category_id": "38",
-                "planet_channel_id": "282",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/33367_50862_skysp1de.jpg"
-              },
-              "sub_79": {
-                "id": 79,
-                "mode": "video",
-                "name": "SKY SP 2 HD",
-                "planet_category_id": "38",
-                "planet_channel_id": "283",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/38473_49356_skysp2hd.jpg"
-              },
-              "sub_80": {
-                "id": 80,
-                "mode": "video",
-                "name": "SKY SP ARENA",
-                "planet_category_id": "38",
-                "planet_channel_id": "253",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/74830_17287_skyarena (1).jpg"
-              },
-              "sub_81": {
-                "id": 81,
-                "mode": "video",
-                "name": "SKY SP BOX OFF",
-                "planet_category_id": "38",
-                "planet_channel_id": "250",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/53443_skysportsboxoffice.png"
-              },
-              "sub_82": {
-                "id": 82,
-                "mode": "video",
-                "name": "Sky Sp Box office server2",
-                "planet_category_id": "38",
-                "planet_channel_id": "1437",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/93917_download.jpeg"
-              },
-              "sub_83": {
-                "id": 83,
-                "mode": "video",
-                "name": "Sky Sp Box office server3",
-                "planet_category_id": "38",
-                "planet_channel_id": "1534",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/12371_2565_skyboxoffice.jpg"
-              },
-              "sub_84": {
-                "id": 84,
-                "mode": "video",
-                "name": "SKY SP CRICKET",
-                "planet_category_id": "38",
-                "planet_channel_id": "254",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/27822_27713_skycricket.jpg"
-              },
-              "sub_85": {
-                "id": 85,
-                "mode": "video",
-                "name": "SKY SP F1 HD",
-                "planet_category_id": "38",
-                "planet_channel_id": "251",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/7574_13208_skyf1new.jpg"
-              },
-              "sub_86": {
-                "id": 86,
-                "mode": "video",
-                "name": "SKY SP F1 HD(Server2)",
-                "planet_category_id": "38",
-                "planet_channel_id": "1530",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/3368_63854_skyspf1hd.jpg"
-              },
-              "sub_87": {
-                "id": 87,
-                "mode": "video",
-                "name": "SKY SP F1 HD(Server3)",
-                "planet_category_id": "38",
-                "planet_channel_id": "1531",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/40348_63854_skyspf1hd.jpg"
-              },
-              "sub_88": {
-                "id": 88,
-                "mode": "video",
-                "name": "SKY SP FOOTBALL",
-                "planet_category_id": "38",
-                "planet_channel_id": "255",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/52791_3243_skyfootball (1).jpg"
-              },
-              "sub_89": {
-                "id": 89,
-                "mode": "video",
-                "name": "SKY SP GOLF",
-                "planet_category_id": "38",
-                "planet_channel_id": "256",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/266_40768_skygolf.jpg"
-              },
-              "sub_90": {
-                "id": 90,
-                "mode": "video",
-                "name": "SKY SP MAIN EVENT",
-                "planet_category_id": "38",
-                "planet_channel_id": "258",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/16634_43621_skymainevent.jpg"
-              },
-              "sub_91": {
-                "id": 91,
-                "mode": "video",
-                "name": "SKY SP MIX",
-                "planet_category_id": "38",
-                "planet_channel_id": "259",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/90154_65882_skymixnew.jpg"
-              },
-              "sub_92": {
-                "id": 92,
-                "mode": "video",
-                "name": "SKY SP NEWS",
-                "planet_category_id": "38",
-                "planet_channel_id": "252",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/15803_73040_skynewsnew.jpg"
-              },
-              "sub_93": {
-                "id": 93,
-                "mode": "video",
-                "name": "SKY SPORTS ACTION",
-                "planet_category_id": "38",
-                "planet_channel_id": "249",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/47639_13208_skyf1new.jpg"
-              },
-              "sub_94": {
-                "id": 94,
-                "mode": "video",
-                "name": "SKY SPORTS NEWS",
-                "planet_category_id": "38",
-                "planet_channel_id": "248",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/78274_73040_skynewsnew.jpg"
-              },
-              "sub_95": {
-                "id": 95,
-                "mode": "video",
-                "name": "SKY SPORTS PREMIER LEAGUE",
-                "planet_category_id": "38",
-                "planet_channel_id": "257",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/60402_89284_skyleauge.jpg"
-              },
-              "sub_96": {
-                "id": 96,
-                "mode": "video",
-                "name": "SKYSPFOOTBALL(SERVER 2)",
-                "planet_category_id": "38",
-                "planet_channel_id": "1529",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/16841_69996_skyspfootball.jpg"
-              },
-              "sub_97": {
-                "id": 97,
-                "mode": "video",
-                "name": "SMART SPORT 1",
-                "planet_category_id": "38",
-                "planet_channel_id": "731",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/35485_76095_smartspor1.jpg"
-              },
-              "sub_98": {
-                "id": 98,
-                "mode": "video",
-                "name": "SONY ESPN",
-                "planet_category_id": "38",
-                "planet_channel_id": "735",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/70998_92886_sonyespn.jpg"
-              },
-              "sub_99": {
-                "id": 99,
-                "mode": "video",
-                "name": "SONY SIX",
-                "planet_category_id": "38",
-                "planet_channel_id": "330",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/55588_90_sonysixhd.jpg"
-              },
-              "sub_100": {
-                "id": 100,
-                "mode": "video",
-                "name": "SONY SIX HD",
-                "planet_category_id": "38",
-                "planet_channel_id": "331",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/32525_90_sonysixhd.jpg"
-              },
-              "sub_101": {
-                "id": 101,
-                "mode": "video",
-                "name": "SPORTS TV1",
-                "planet_category_id": "38",
-                "planet_channel_id": "260",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/81298_80902_sportstv1.jpg"
-              },
-              "sub_102": {
-                "id": 102,
-                "mode": "video",
-                "name": "SPORTS TV2",
-                "planet_category_id": "38",
-                "planet_channel_id": "261",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/78934_78786_sportstv2.jpg"
-              },
-              "sub_103": {
-                "id": 103,
-                "mode": "video",
-                "name": "SPORTS TV3",
-                "planet_category_id": "38",
-                "planet_channel_id": "262",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/2183_58689_sportstv3.jpg"
-              },
-              "sub_104": {
-                "id": 104,
-                "mode": "video",
-                "name": "SPORTS TV4",
-                "planet_category_id": "38",
-                "planet_channel_id": "263",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/20922_53237_sportstv4.jpg"
-              },
-              "sub_105": {
-                "id": 105,
-                "mode": "video",
-                "name": "SPORTS TV5",
-                "planet_category_id": "38",
-                "planet_channel_id": "264",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/45210_40463_sportstv5.jpg"
-              },
-              "sub_106": {
-                "id": 106,
-                "mode": "video",
-                "name": "SportsNET CA",
-                "planet_category_id": "38",
-                "planet_channel_id": "1284",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/8408_images (8).jpeg"
-              },
-              "sub_107": {
-                "id": 107,
-                "mode": "video",
-                "name": "STAR SP 1",
-                "planet_category_id": "38",
-                "planet_channel_id": "284",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/3948_54049_starsports1.jpg"
-              },
-              "sub_108": {
-                "id": 108,
-                "mode": "video",
-                "name": "STAR SP 1 HD",
-                "planet_category_id": "38",
-                "planet_channel_id": "301",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/20397_47890_starsphd1.jpg"
-              },
-              "sub_109": {
-                "id": 109,
-                "mode": "video",
-                "name": "STAR SP 1 HINDI",
-                "planet_category_id": "38",
-                "planet_channel_id": "303",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/30556_47890_starsphd1.jpg"
-              },
-              "sub_110": {
-                "id": 110,
-                "mode": "video",
-                "name": "STAR SP 2",
-                "planet_category_id": "38",
-                "planet_channel_id": "305",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/38908_22647_86191_starsports2 (1).jpg"
-              },
-              "sub_111": {
-                "id": 111,
-                "mode": "video",
-                "name": "STAR SP 2 HD",
-                "planet_category_id": "38",
-                "planet_channel_id": "306",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/60535_95977_starsphd2.jpg"
-              },
-              "sub_112": {
-                "id": 112,
-                "mode": "video",
-                "name": "STAR SP 3",
-                "planet_category_id": "38",
-                "planet_channel_id": "307",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/57914_32980_starsports3.jpg"
-              },
-              "sub_113": {
-                "id": 113,
-                "mode": "video",
-                "name": "STAR SP FIRST",
-                "planet_category_id": "38",
-                "planet_channel_id": "310",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/61529_23453_starselecthd1 (1).jpg"
-              },
-              "sub_114": {
-                "id": 114,
-                "mode": "video",
-                "name": "STAR SP SELECT 2",
-                "planet_category_id": "38",
-                "planet_channel_id": "314",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/6687_63286_starselecthd2.jpg"
-              },
-              "sub_115": {
-                "id": 115,
-                "mode": "video",
-                "name": "STAR SP SELECT HD1",
-                "planet_category_id": "38",
-                "planet_channel_id": "312",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/59731_23453_starselecthd1 (1).jpg"
-              },
-              "sub_116": {
-                "id": 116,
-                "mode": "video",
-                "name": "TEN 1",
-                "planet_category_id": "38",
-                "planet_channel_id": "320",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/90058_74864_ten1.jpg"
-              },
-              "sub_117": {
-                "id": 117,
-                "mode": "video",
-                "name": "TEN 1 HD",
-                "planet_category_id": "38",
-                "planet_channel_id": "321",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/80055_sony ten 1.jpg"
-              },
-              "sub_118": {
-                "id": 118,
-                "mode": "video",
-                "name": "TEN 2",
-                "planet_category_id": "38",
-                "planet_channel_id": "323",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/56578_70807_ten2.jpg"
-              },
-              "sub_119": {
-                "id": 119,
-                "mode": "video",
-                "name": "TEN 2 HD",
-                "planet_category_id": "38",
-                "planet_channel_id": "324",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/31358_30742_ten2hd (1).jpg"
-              },
-              "sub_120": {
-                "id": 120,
-                "mode": "video",
-                "name": "TEN 3",
-                "planet_category_id": "38",
-                "planet_channel_id": "318",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/80660_46147_ten3hd.jpg"
-              },
-              "sub_121": {
-                "id": 121,
-                "mode": "video",
-                "name": "TEN SPORTS PK",
-                "planet_category_id": "38",
-                "planet_channel_id": "235",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/35594_3432_tencricpak.jpg"
-              },
-              "sub_122": {
-                "id": 122,
-                "mode": "video",
-                "name": "TIVIBU SP 1",
-                "planet_category_id": "38",
-                "planet_channel_id": "720",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/31015_78200_tivibuspor1.jpg"
-              },
-              "sub_123": {
-                "id": 123,
-                "mode": "video",
-                "name": "TIVIBU SP 2",
-                "planet_category_id": "38",
-                "planet_channel_id": "722",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/45304_14306_tivibuspor2.jpg"
-              },
-              "sub_124": {
-                "id": 124,
-                "mode": "video",
-                "name": "TIVIBU SP 3",
-                "planet_category_id": "38",
-                "planet_channel_id": "723",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/86901_75904_tivibuspor3.jpg"
-              },
-              "sub_125": {
-                "id": 125,
-                "mode": "video",
-                "name": "TIVIBU SP 4",
-                "planet_category_id": "38",
-                "planet_channel_id": "725",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/54811_7988_tivibuspor4.jpg"
-              },
-              "sub_126": {
-                "id": 126,
-                "mode": "video",
-                "name": "TSN SPORT 1",
-                "planet_category_id": "38",
-                "planet_channel_id": "702",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/38127_67935_tsn1.jpg"
-              },
-              "sub_127": {
-                "id": 127,
-                "mode": "video",
-                "name": "TSN SPORT 2",
-                "planet_category_id": "38",
-                "planet_channel_id": "703",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/27911_96819_tsn2.jpg"
-              },
-              "sub_128": {
-                "id": 128,
-                "mode": "video",
-                "name": "TSN SPORT 3",
-                "planet_category_id": "38",
-                "planet_channel_id": "704",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/14306_56142_tsn3.jpg"
-              },
-              "sub_129": {
-                "id": 129,
-                "mode": "video",
-                "name": "TSN SPORT 4",
-                "planet_category_id": "38",
-                "planet_channel_id": "714",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/63177_96507_tsn4.jpg"
-              },
-              "sub_130": {
-                "id": 130,
-                "mode": "video",
-                "name": "TSN SPORT 5",
-                "planet_category_id": "38",
-                "planet_channel_id": "716",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/58033_5065_tsn5.jpg"
-              },
-              "sub_131": {
-                "id": 131,
-                "mode": "video",
-                "name": "UK RACING",
-                "planet_category_id": "38",
-                "planet_channel_id": "276",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/30263_16203_ukracing (1).jpg"
-              },
-              "sub_132": {
-                "id": 132,
-                "mode": "video",
-                "name": "Willow Cric",
-                "planet_category_id": "38",
-                "planet_channel_id": "1515",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/82889_willow.png"
-              },
-              "sub_133": {
-                "id": 133,
-                "mode": "video",
-                "name": "WWE NETWORK",
-                "planet_category_id": "38",
-                "planet_channel_id": "1356",
-                "sub_name": "",
-                "thumbnail_url": "https://app.liveplanettv.com/beta/images/7483_wwe.jpg"
-              }
-            }
-          },
-          "main_sub_1": {
-            "id": 1,
             "name": "Indian TV",
             "sub_name": "Channels",
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/India-TV.jpeg",
@@ -3216,7 +2002,1221 @@
               }
             }
           },
-          "main_sub_2": {
+          "main_sub_1": {
+            "id": 1,
+            "name": "Sports TV",
+            "sub_name": "Channels",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Sports-TV.jpeg",
+            "sub": {
+              "sub_0": {
+                "id": 0,
+                "mode": "video",
+                "name": "BEIN 1",
+                "planet_category_id": "38",
+                "planet_channel_id": "747",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/1065_19569_ben1.jpg"
+              },
+              "sub_1": {
+                "id": 1,
+                "mode": "video",
+                "name": "BEIN 1 SD",
+                "planet_category_id": "38",
+                "planet_channel_id": "771",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/95507_26007_bein1sd.jpg"
+              },
+              "sub_2": {
+                "id": 2,
+                "mode": "video",
+                "name": "BEIN 10 SD",
+                "planet_category_id": "38",
+                "planet_channel_id": "789",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/13089_77802_bein10sd.jpg"
+              },
+              "sub_3": {
+                "id": 3,
+                "mode": "video",
+                "name": "BEIN 11",
+                "planet_category_id": "38",
+                "planet_channel_id": "767",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/15043_37997_bein11.jpg"
+              },
+              "sub_4": {
+                "id": 4,
+                "mode": "video",
+                "name": "BEIN 11SD",
+                "planet_category_id": "38",
+                "planet_channel_id": "794",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/81009_37997_bein11.jpg"
+              },
+              "sub_5": {
+                "id": 5,
+                "mode": "video",
+                "name": "BEIN 12",
+                "planet_category_id": "38",
+                "planet_channel_id": "768",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/89012_5758_bein12 (2).jpg"
+              },
+              "sub_6": {
+                "id": 6,
+                "mode": "video",
+                "name": "BEIN 12 SD",
+                "planet_category_id": "38",
+                "planet_channel_id": "795",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/20575_20870_bein12sd (1).jpg"
+              },
+              "sub_7": {
+                "id": 7,
+                "mode": "video",
+                "name": "BEIN 1TURKEY",
+                "planet_category_id": "38",
+                "planet_channel_id": "796",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/87942_23873_bein1tr (1).jpg"
+              },
+              "sub_8": {
+                "id": 8,
+                "mode": "video",
+                "name": "BEIN 2",
+                "planet_category_id": "38",
+                "planet_channel_id": "748",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/68014_67308_bein2.jpg"
+              },
+              "sub_9": {
+                "id": 9,
+                "mode": "video",
+                "name": "BEIN 2 TURKEY",
+                "planet_category_id": "38",
+                "planet_channel_id": "797",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/45817_69623_bein2tr.jpg"
+              },
+              "sub_10": {
+                "id": 10,
+                "mode": "video",
+                "name": "BEIN 3",
+                "planet_category_id": "38",
+                "planet_channel_id": "750",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/71121_39971_bein3.jpg"
+              },
+              "sub_11": {
+                "id": 11,
+                "mode": "video",
+                "name": "BEIN 3 TURKEY",
+                "planet_category_id": "38",
+                "planet_channel_id": "798",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/35496_95386_bein3tr.jpg"
+              },
+              "sub_12": {
+                "id": 12,
+                "mode": "video",
+                "name": "BEIN 4",
+                "planet_category_id": "38",
+                "planet_channel_id": "753",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/71315_43193_bein4.jpg"
+              },
+              "sub_13": {
+                "id": 13,
+                "mode": "video",
+                "name": "BEIN 5",
+                "planet_category_id": "38",
+                "planet_channel_id": "755",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/97184_1093_bein5 (1).jpg"
+              },
+              "sub_14": {
+                "id": 14,
+                "mode": "video",
+                "name": "BEIN 6",
+                "planet_category_id": "38",
+                "planet_channel_id": "756",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/29445_10061_bein6 (1).jpg"
+              },
+              "sub_15": {
+                "id": 15,
+                "mode": "video",
+                "name": "BEIN 7",
+                "planet_category_id": "38",
+                "planet_channel_id": "757",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/98783_6981_bein7 (1).jpg"
+              },
+              "sub_16": {
+                "id": 16,
+                "mode": "video",
+                "name": "BEIN 8",
+                "planet_category_id": "38",
+                "planet_channel_id": "763",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/77255_98831_bein8.jpg"
+              },
+              "sub_17": {
+                "id": 17,
+                "mode": "video",
+                "name": "BEIN 9",
+                "planet_category_id": "38",
+                "planet_channel_id": "765",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/59264_97544_bein9.jpg"
+              },
+              "sub_18": {
+                "id": 18,
+                "mode": "video",
+                "name": "BEIN 9 SD",
+                "planet_category_id": "38",
+                "planet_channel_id": "788",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/32067_26925_bein9sd.jpg"
+              },
+              "sub_19": {
+                "id": 19,
+                "mode": "video",
+                "name": "Bein SD 2",
+                "planet_category_id": "38",
+                "planet_channel_id": "777",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/64027_54417_bein2sd.jpg"
+              },
+              "sub_20": {
+                "id": 20,
+                "mode": "video",
+                "name": "Bein SD 3",
+                "planet_category_id": "38",
+                "planet_channel_id": "778",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/77001_46251_bein3sd.jpg"
+              },
+              "sub_21": {
+                "id": 21,
+                "mode": "video",
+                "name": "Bein SD 4",
+                "planet_category_id": "38",
+                "planet_channel_id": "779",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/94212_99595_bein4sd.jpg"
+              },
+              "sub_22": {
+                "id": 22,
+                "mode": "video",
+                "name": "Bein SD 5",
+                "planet_category_id": "38",
+                "planet_channel_id": "781",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/4534_97730_bein5sd.jpg"
+              },
+              "sub_23": {
+                "id": 23,
+                "mode": "video",
+                "name": "BEIN SD 6",
+                "planet_category_id": "38",
+                "planet_channel_id": "783",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/54025_7354_bein6sd (1).jpg"
+              },
+              "sub_24": {
+                "id": 24,
+                "mode": "video",
+                "name": "Bein SD 7",
+                "planet_category_id": "38",
+                "planet_channel_id": "785",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/37088_12005_bein7sd (1).jpg"
+              },
+              "sub_25": {
+                "id": 25,
+                "mode": "video",
+                "name": "BEIN SD 8",
+                "planet_category_id": "38",
+                "planet_channel_id": "786",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/6115_56885_bein8sd.jpg"
+              },
+              "sub_26": {
+                "id": 26,
+                "mode": "video",
+                "name": "BENFICA TV",
+                "planet_category_id": "38",
+                "planet_channel_id": "273",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/93078_28736_beinficatv.jpg"
+              },
+              "sub_27": {
+                "id": 27,
+                "mode": "video",
+                "name": "BEOUTQ 1",
+                "planet_category_id": "38",
+                "planet_channel_id": "1509",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/14725_t66rZsc.png"
+              },
+              "sub_28": {
+                "id": 28,
+                "mode": "video",
+                "name": "BEOUTQ 2",
+                "planet_category_id": "38",
+                "planet_channel_id": "1508",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/81542_2.png"
+              },
+              "sub_29": {
+                "id": 29,
+                "mode": "video",
+                "name": "BEOUTQ 3",
+                "planet_category_id": "38",
+                "planet_channel_id": "1510",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/79618_3.png"
+              },
+              "sub_30": {
+                "id": 30,
+                "mode": "video",
+                "name": "BEOUTQ 4",
+                "planet_category_id": "38",
+                "planet_channel_id": "1511",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/39392_4.png"
+              },
+              "sub_31": {
+                "id": 31,
+                "mode": "video",
+                "name": "BEOUTQ 5",
+                "planet_category_id": "38",
+                "planet_channel_id": "1512",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/26535_5.png"
+              },
+              "sub_32": {
+                "id": 32,
+                "mode": "video",
+                "name": "BEOUTQ 6",
+                "planet_category_id": "38",
+                "planet_channel_id": "1513",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/55261_6.png"
+              },
+              "sub_33": {
+                "id": 33,
+                "mode": "video",
+                "name": "BEOUTQ 7",
+                "planet_category_id": "38",
+                "planet_channel_id": "1514",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/40410_7.png"
+              },
+              "sub_34": {
+                "id": 34,
+                "mode": "video",
+                "name": "BOX NATION",
+                "planet_category_id": "38",
+                "planet_channel_id": "275",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/85726_18586_boxnation1.jpg"
+              },
+              "sub_35": {
+                "id": 35,
+                "mode": "video",
+                "name": "BT 1 HD",
+                "planet_category_id": "38",
+                "planet_channel_id": "237",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/62370_2616_bt1hd.jpg"
+              },
+              "sub_36": {
+                "id": 36,
+                "mode": "video",
+                "name": "BT 1 SD",
+                "planet_category_id": "38",
+                "planet_channel_id": "236",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/9145_37398_bt1sd.jpg"
+              },
+              "sub_37": {
+                "id": 37,
+                "mode": "video",
+                "name": "BT 2 HD",
+                "planet_category_id": "38",
+                "planet_channel_id": "239",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/26639_11753_bt2hd.jpg"
+              },
+              "sub_38": {
+                "id": 38,
+                "mode": "video",
+                "name": "BT 2 SD",
+                "planet_category_id": "38",
+                "planet_channel_id": "238",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/50122_68899_bt2sd.jpg"
+              },
+              "sub_39": {
+                "id": 39,
+                "mode": "video",
+                "name": "BT 3 HD",
+                "planet_category_id": "38",
+                "planet_channel_id": "241",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/50393_45096_bt3hd.jpg"
+              },
+              "sub_40": {
+                "id": 40,
+                "mode": "video",
+                "name": "BT 3 SD",
+                "planet_category_id": "38",
+                "planet_channel_id": "240",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/38945_16192_bt3sd.jpg"
+              },
+              "sub_41": {
+                "id": 41,
+                "mode": "video",
+                "name": "BT SPORTS 1",
+                "planet_category_id": "38",
+                "planet_channel_id": "242",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/6294_49801_bt1.jpg"
+              },
+              "sub_42": {
+                "id": 42,
+                "mode": "video",
+                "name": "BT SPORTS 2",
+                "planet_category_id": "38",
+                "planet_channel_id": "243",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/68344_76380_bt2.jpg"
+              },
+              "sub_43": {
+                "id": 43,
+                "mode": "video",
+                "name": "BT SPORTS 3",
+                "planet_category_id": "38",
+                "planet_channel_id": "244",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/69572_71456_bt3.jpg"
+              },
+              "sub_44": {
+                "id": 44,
+                "mode": "video",
+                "name": "CHELSEA TV",
+                "planet_category_id": "38",
+                "planet_channel_id": "245",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/40033_95200_chelseatv.jpg"
+              },
+              "sub_45": {
+                "id": 45,
+                "mode": "video",
+                "name": "DD SPORTS",
+                "planet_category_id": "38",
+                "planet_channel_id": "799",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/92872_6257_ddsports.jpg"
+              },
+              "sub_46": {
+                "id": 46,
+                "mode": "video",
+                "name": "EIR SPORTS",
+                "planet_category_id": "38",
+                "planet_channel_id": "800",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/97399_64988_eirsp1.jpg"
+              },
+              "sub_47": {
+                "id": 47,
+                "mode": "video",
+                "name": "EIR SPORTS 2",
+                "planet_category_id": "38",
+                "planet_channel_id": "801",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/8019_1591_eirsp2 (1).jpg"
+              },
+              "sub_48": {
+                "id": 48,
+                "mode": "video",
+                "name": "ESPN",
+                "planet_category_id": "38",
+                "planet_channel_id": "802",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/73890_27554_espn.jpg"
+              },
+              "sub_49": {
+                "id": 49,
+                "mode": "video",
+                "name": "EURO SPORTS 1",
+                "planet_category_id": "38",
+                "planet_channel_id": "246",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/43671_88101_euro1.jpg"
+              },
+              "sub_50": {
+                "id": 50,
+                "mode": "video",
+                "name": "EURO SPORTS 2",
+                "planet_category_id": "38",
+                "planet_channel_id": "247",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/14864_23126_euro2.jpg"
+              },
+              "sub_51": {
+                "id": 51,
+                "mode": "video",
+                "name": "FOX SPORTS 1",
+                "planet_category_id": "38",
+                "planet_channel_id": "914",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/91003_69943_foxspusa1.jpg"
+              },
+              "sub_52": {
+                "id": 52,
+                "mode": "video",
+                "name": "FOX SPORTS 2",
+                "planet_category_id": "38",
+                "planet_channel_id": "915",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/37535_75594_foxspusa2.jpg"
+              },
+              "sub_53": {
+                "id": 53,
+                "mode": "video",
+                "name": "GEO SUPER",
+                "planet_category_id": "38",
+                "planet_channel_id": "234",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/92789_6016_geosuper.jpg"
+              },
+              "sub_54": {
+                "id": 54,
+                "mode": "video",
+                "name": "LFC",
+                "planet_category_id": "38",
+                "planet_channel_id": "280",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/85936_9955_lfc.jpg"
+              },
+              "sub_55": {
+                "id": 55,
+                "mode": "video",
+                "name": "MBC PRO 2",
+                "planet_category_id": "38",
+                "planet_channel_id": "1517",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/39045_download.png"
+              },
+              "sub_56": {
+                "id": 56,
+                "mode": "video",
+                "name": "MBC PRO 3",
+                "planet_category_id": "38",
+                "planet_channel_id": "1518",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/25956_mbc3.jpg"
+              },
+              "sub_57": {
+                "id": 57,
+                "mode": "video",
+                "name": "MBC PRO 4",
+                "planet_category_id": "38",
+                "planet_channel_id": "1519",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/52531_mbc 4.jpg"
+              },
+              "sub_58": {
+                "id": 58,
+                "mode": "video",
+                "name": "MBC PRO1",
+                "planet_category_id": "38",
+                "planet_channel_id": "1516",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/8889_mbc-pro-sports1.jpg"
+              },
+              "sub_59": {
+                "id": 59,
+                "mode": "video",
+                "name": "MUTV",
+                "planet_category_id": "38",
+                "planet_channel_id": "281",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/45033_12395_mutv.jpg"
+              },
+              "sub_60": {
+                "id": 60,
+                "mode": "video",
+                "name": "NBA HD",
+                "planet_category_id": "38",
+                "planet_channel_id": "916",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/73401_62252_nbatv.jpg"
+              },
+              "sub_61": {
+                "id": 61,
+                "mode": "video",
+                "name": "NBC GOLF",
+                "planet_category_id": "38",
+                "planet_channel_id": "1520",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/90816_NBC olf.png"
+              },
+              "sub_62": {
+                "id": 62,
+                "mode": "video",
+                "name": "NBC SN",
+                "planet_category_id": "38",
+                "planet_channel_id": "913",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/8476_45155_nbcsn.jpg"
+              },
+              "sub_63": {
+                "id": 63,
+                "mode": "video",
+                "name": "NEO Prime",
+                "planet_category_id": "38",
+                "planet_channel_id": "1521",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/51268_neo.jpg"
+              },
+              "sub_64": {
+                "id": 64,
+                "mode": "video",
+                "name": "NFL NETWORK",
+                "planet_category_id": "38",
+                "planet_channel_id": "744",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/40503_48206_nflnetwork.jpg"
+              },
+              "sub_65": {
+                "id": 65,
+                "mode": "video",
+                "name": "OSNSPORT1",
+                "planet_category_id": "38",
+                "planet_channel_id": "1285",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/72677_20130820160337_channelsbig.png"
+              },
+              "sub_66": {
+                "id": 66,
+                "mode": "video",
+                "name": "PREMIER SP",
+                "planet_category_id": "38",
+                "planet_channel_id": "277",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/19189_39093_premiersports.jpg"
+              },
+              "sub_67": {
+                "id": 67,
+                "mode": "video",
+                "name": "PTV SPORTS",
+                "planet_category_id": "38",
+                "planet_channel_id": "231",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/64598_14060_ptvsportsnew.jpg"
+              },
+              "sub_68": {
+                "id": 68,
+                "mode": "video",
+                "name": "S SPOR",
+                "planet_category_id": "38",
+                "planet_channel_id": "740",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/57318_18048_sportstv3tr (1).jpg"
+              },
+              "sub_69": {
+                "id": 69,
+                "mode": "video",
+                "name": "SFR SP 1",
+                "planet_category_id": "38",
+                "planet_channel_id": "267",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/11778_38228_sfrsp1.jpg"
+              },
+              "sub_70": {
+                "id": 70,
+                "mode": "video",
+                "name": "SFR SP2",
+                "planet_category_id": "38",
+                "planet_channel_id": "268",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/75612_45282_sfrsp2.jpg"
+              },
+              "sub_71": {
+                "id": 71,
+                "mode": "video",
+                "name": "SFR SP3",
+                "planet_category_id": "38",
+                "planet_channel_id": "270",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/66839_76664_sfrsp3.jpg"
+              },
+              "sub_72": {
+                "id": 72,
+                "mode": "video",
+                "name": "SKY LEGAUE(Server 2)",
+                "planet_category_id": "38",
+                "planet_channel_id": "1528",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/33614_72149_skysppreleague.jpg"
+              },
+              "sub_73": {
+                "id": 73,
+                "mode": "video",
+                "name": "SKY MAIN EVENT(Server 2)",
+                "planet_category_id": "38",
+                "planet_channel_id": "1525",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/74208_43621_skymainevent.jpg"
+              },
+              "sub_74": {
+                "id": 74,
+                "mode": "video",
+                "name": "SKY MAIN EVENT(Server 3)",
+                "planet_category_id": "38",
+                "planet_channel_id": "1526",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/50291_43621_skymainevent.jpg"
+              },
+              "sub_75": {
+                "id": 75,
+                "mode": "video",
+                "name": "SKY MAIN EVENT(Server 4)",
+                "planet_category_id": "38",
+                "planet_channel_id": "1527",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/86539_43621_skymainevent.jpg"
+              },
+              "sub_76": {
+                "id": 76,
+                "mode": "video",
+                "name": "SKY MAIN EVENT(Server 5)",
+                "planet_category_id": "38",
+                "planet_channel_id": "1532",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/74548_43621_skymainevent.jpg"
+              },
+              "sub_77": {
+                "id": 77,
+                "mode": "video",
+                "name": "SKY MAIN EVENT(Server 6)",
+                "planet_category_id": "38",
+                "planet_channel_id": "1533",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/27507_43621_skymainevent.jpg"
+              },
+              "sub_78": {
+                "id": 78,
+                "mode": "video",
+                "name": "SKY SP 1DE",
+                "planet_category_id": "38",
+                "planet_channel_id": "282",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/33367_50862_skysp1de.jpg"
+              },
+              "sub_79": {
+                "id": 79,
+                "mode": "video",
+                "name": "SKY SP 2 HD",
+                "planet_category_id": "38",
+                "planet_channel_id": "283",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/38473_49356_skysp2hd.jpg"
+              },
+              "sub_80": {
+                "id": 80,
+                "mode": "video",
+                "name": "SKY SP ARENA",
+                "planet_category_id": "38",
+                "planet_channel_id": "253",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/74830_17287_skyarena (1).jpg"
+              },
+              "sub_81": {
+                "id": 81,
+                "mode": "video",
+                "name": "SKY SP BOX OFF",
+                "planet_category_id": "38",
+                "planet_channel_id": "250",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/53443_skysportsboxoffice.png"
+              },
+              "sub_82": {
+                "id": 82,
+                "mode": "video",
+                "name": "Sky Sp Box office server2",
+                "planet_category_id": "38",
+                "planet_channel_id": "1437",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/93917_download.jpeg"
+              },
+              "sub_83": {
+                "id": 83,
+                "mode": "video",
+                "name": "Sky Sp Box office server3",
+                "planet_category_id": "38",
+                "planet_channel_id": "1534",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/12371_2565_skyboxoffice.jpg"
+              },
+              "sub_84": {
+                "id": 84,
+                "mode": "video",
+                "name": "SKY SP CRICKET",
+                "planet_category_id": "38",
+                "planet_channel_id": "254",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/27822_27713_skycricket.jpg"
+              },
+              "sub_85": {
+                "id": 85,
+                "mode": "video",
+                "name": "SKY SP F1 HD",
+                "planet_category_id": "38",
+                "planet_channel_id": "251",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/7574_13208_skyf1new.jpg"
+              },
+              "sub_86": {
+                "id": 86,
+                "mode": "video",
+                "name": "SKY SP F1 HD(Server2)",
+                "planet_category_id": "38",
+                "planet_channel_id": "1530",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/3368_63854_skyspf1hd.jpg"
+              },
+              "sub_87": {
+                "id": 87,
+                "mode": "video",
+                "name": "SKY SP F1 HD(Server3)",
+                "planet_category_id": "38",
+                "planet_channel_id": "1531",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/40348_63854_skyspf1hd.jpg"
+              },
+              "sub_88": {
+                "id": 88,
+                "mode": "video",
+                "name": "SKY SP FOOTBALL",
+                "planet_category_id": "38",
+                "planet_channel_id": "255",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/52791_3243_skyfootball (1).jpg"
+              },
+              "sub_89": {
+                "id": 89,
+                "mode": "video",
+                "name": "SKY SP GOLF",
+                "planet_category_id": "38",
+                "planet_channel_id": "256",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/266_40768_skygolf.jpg"
+              },
+              "sub_90": {
+                "id": 90,
+                "mode": "video",
+                "name": "SKY SP MAIN EVENT",
+                "planet_category_id": "38",
+                "planet_channel_id": "258",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/16634_43621_skymainevent.jpg"
+              },
+              "sub_91": {
+                "id": 91,
+                "mode": "video",
+                "name": "SKY SP MIX",
+                "planet_category_id": "38",
+                "planet_channel_id": "259",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/90154_65882_skymixnew.jpg"
+              },
+              "sub_92": {
+                "id": 92,
+                "mode": "video",
+                "name": "SKY SP NEWS",
+                "planet_category_id": "38",
+                "planet_channel_id": "252",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/15803_73040_skynewsnew.jpg"
+              },
+              "sub_93": {
+                "id": 93,
+                "mode": "video",
+                "name": "SKY SPORTS ACTION",
+                "planet_category_id": "38",
+                "planet_channel_id": "249",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/47639_13208_skyf1new.jpg"
+              },
+              "sub_94": {
+                "id": 94,
+                "mode": "video",
+                "name": "SKY SPORTS NEWS",
+                "planet_category_id": "38",
+                "planet_channel_id": "248",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/78274_73040_skynewsnew.jpg"
+              },
+              "sub_95": {
+                "id": 95,
+                "mode": "video",
+                "name": "SKY SPORTS PREMIER LEAGUE",
+                "planet_category_id": "38",
+                "planet_channel_id": "257",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/60402_89284_skyleauge.jpg"
+              },
+              "sub_96": {
+                "id": 96,
+                "mode": "video",
+                "name": "SKYSPFOOTBALL(SERVER 2)",
+                "planet_category_id": "38",
+                "planet_channel_id": "1529",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/16841_69996_skyspfootball.jpg"
+              },
+              "sub_97": {
+                "id": 97,
+                "mode": "video",
+                "name": "SMART SPORT 1",
+                "planet_category_id": "38",
+                "planet_channel_id": "731",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/35485_76095_smartspor1.jpg"
+              },
+              "sub_98": {
+                "id": 98,
+                "mode": "video",
+                "name": "SONY ESPN",
+                "planet_category_id": "38",
+                "planet_channel_id": "735",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/70998_92886_sonyespn.jpg"
+              },
+              "sub_99": {
+                "id": 99,
+                "mode": "video",
+                "name": "SONY SIX",
+                "planet_category_id": "38",
+                "planet_channel_id": "330",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/55588_90_sonysixhd.jpg"
+              },
+              "sub_100": {
+                "id": 100,
+                "mode": "video",
+                "name": "SONY SIX HD",
+                "planet_category_id": "38",
+                "planet_channel_id": "331",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/32525_90_sonysixhd.jpg"
+              },
+              "sub_101": {
+                "id": 101,
+                "mode": "video",
+                "name": "SPORTS TV1",
+                "planet_category_id": "38",
+                "planet_channel_id": "260",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/81298_80902_sportstv1.jpg"
+              },
+              "sub_102": {
+                "id": 102,
+                "mode": "video",
+                "name": "SPORTS TV2",
+                "planet_category_id": "38",
+                "planet_channel_id": "261",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/78934_78786_sportstv2.jpg"
+              },
+              "sub_103": {
+                "id": 103,
+                "mode": "video",
+                "name": "SPORTS TV3",
+                "planet_category_id": "38",
+                "planet_channel_id": "262",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/2183_58689_sportstv3.jpg"
+              },
+              "sub_104": {
+                "id": 104,
+                "mode": "video",
+                "name": "SPORTS TV4",
+                "planet_category_id": "38",
+                "planet_channel_id": "263",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/20922_53237_sportstv4.jpg"
+              },
+              "sub_105": {
+                "id": 105,
+                "mode": "video",
+                "name": "SPORTS TV5",
+                "planet_category_id": "38",
+                "planet_channel_id": "264",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/45210_40463_sportstv5.jpg"
+              },
+              "sub_106": {
+                "id": 106,
+                "mode": "video",
+                "name": "SportsNET CA",
+                "planet_category_id": "38",
+                "planet_channel_id": "1284",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/8408_images (8).jpeg"
+              },
+              "sub_107": {
+                "id": 107,
+                "mode": "video",
+                "name": "STAR SP 1",
+                "planet_category_id": "38",
+                "planet_channel_id": "284",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/3948_54049_starsports1.jpg"
+              },
+              "sub_108": {
+                "id": 108,
+                "mode": "video",
+                "name": "STAR SP 1 HD",
+                "planet_category_id": "38",
+                "planet_channel_id": "301",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/20397_47890_starsphd1.jpg"
+              },
+              "sub_109": {
+                "id": 109,
+                "mode": "video",
+                "name": "STAR SP 1 HINDI",
+                "planet_category_id": "38",
+                "planet_channel_id": "303",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/30556_47890_starsphd1.jpg"
+              },
+              "sub_110": {
+                "id": 110,
+                "mode": "video",
+                "name": "STAR SP 2",
+                "planet_category_id": "38",
+                "planet_channel_id": "305",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/38908_22647_86191_starsports2 (1).jpg"
+              },
+              "sub_111": {
+                "id": 111,
+                "mode": "video",
+                "name": "STAR SP 2 HD",
+                "planet_category_id": "38",
+                "planet_channel_id": "306",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/60535_95977_starsphd2.jpg"
+              },
+              "sub_112": {
+                "id": 112,
+                "mode": "video",
+                "name": "STAR SP 3",
+                "planet_category_id": "38",
+                "planet_channel_id": "307",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/57914_32980_starsports3.jpg"
+              },
+              "sub_113": {
+                "id": 113,
+                "mode": "video",
+                "name": "STAR SP FIRST",
+                "planet_category_id": "38",
+                "planet_channel_id": "310",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/61529_23453_starselecthd1 (1).jpg"
+              },
+              "sub_114": {
+                "id": 114,
+                "mode": "video",
+                "name": "STAR SP SELECT 2",
+                "planet_category_id": "38",
+                "planet_channel_id": "314",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/6687_63286_starselecthd2.jpg"
+              },
+              "sub_115": {
+                "id": 115,
+                "mode": "video",
+                "name": "STAR SP SELECT HD1",
+                "planet_category_id": "38",
+                "planet_channel_id": "312",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/59731_23453_starselecthd1 (1).jpg"
+              },
+              "sub_116": {
+                "id": 116,
+                "mode": "video",
+                "name": "TEN 1",
+                "planet_category_id": "38",
+                "planet_channel_id": "320",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/90058_74864_ten1.jpg"
+              },
+              "sub_117": {
+                "id": 117,
+                "mode": "video",
+                "name": "TEN 1 HD",
+                "planet_category_id": "38",
+                "planet_channel_id": "321",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/80055_sony ten 1.jpg"
+              },
+              "sub_118": {
+                "id": 118,
+                "mode": "video",
+                "name": "TEN 2",
+                "planet_category_id": "38",
+                "planet_channel_id": "323",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/56578_70807_ten2.jpg"
+              },
+              "sub_119": {
+                "id": 119,
+                "mode": "video",
+                "name": "TEN 2 HD",
+                "planet_category_id": "38",
+                "planet_channel_id": "324",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/31358_30742_ten2hd (1).jpg"
+              },
+              "sub_120": {
+                "id": 120,
+                "mode": "video",
+                "name": "TEN 3",
+                "planet_category_id": "38",
+                "planet_channel_id": "318",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/80660_46147_ten3hd.jpg"
+              },
+              "sub_121": {
+                "id": 121,
+                "mode": "video",
+                "name": "TEN SPORTS PK",
+                "planet_category_id": "38",
+                "planet_channel_id": "235",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/35594_3432_tencricpak.jpg"
+              },
+              "sub_122": {
+                "id": 122,
+                "mode": "video",
+                "name": "TIVIBU SP 1",
+                "planet_category_id": "38",
+                "planet_channel_id": "720",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/31015_78200_tivibuspor1.jpg"
+              },
+              "sub_123": {
+                "id": 123,
+                "mode": "video",
+                "name": "TIVIBU SP 2",
+                "planet_category_id": "38",
+                "planet_channel_id": "722",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/45304_14306_tivibuspor2.jpg"
+              },
+              "sub_124": {
+                "id": 124,
+                "mode": "video",
+                "name": "TIVIBU SP 3",
+                "planet_category_id": "38",
+                "planet_channel_id": "723",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/86901_75904_tivibuspor3.jpg"
+              },
+              "sub_125": {
+                "id": 125,
+                "mode": "video",
+                "name": "TIVIBU SP 4",
+                "planet_category_id": "38",
+                "planet_channel_id": "725",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/54811_7988_tivibuspor4.jpg"
+              },
+              "sub_126": {
+                "id": 126,
+                "mode": "video",
+                "name": "TSN SPORT 1",
+                "planet_category_id": "38",
+                "planet_channel_id": "702",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/38127_67935_tsn1.jpg"
+              },
+              "sub_127": {
+                "id": 127,
+                "mode": "video",
+                "name": "TSN SPORT 2",
+                "planet_category_id": "38",
+                "planet_channel_id": "703",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/27911_96819_tsn2.jpg"
+              },
+              "sub_128": {
+                "id": 128,
+                "mode": "video",
+                "name": "TSN SPORT 3",
+                "planet_category_id": "38",
+                "planet_channel_id": "704",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/14306_56142_tsn3.jpg"
+              },
+              "sub_129": {
+                "id": 129,
+                "mode": "video",
+                "name": "TSN SPORT 4",
+                "planet_category_id": "38",
+                "planet_channel_id": "714",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/63177_96507_tsn4.jpg"
+              },
+              "sub_130": {
+                "id": 130,
+                "mode": "video",
+                "name": "TSN SPORT 5",
+                "planet_category_id": "38",
+                "planet_channel_id": "716",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/58033_5065_tsn5.jpg"
+              },
+              "sub_131": {
+                "id": 131,
+                "mode": "video",
+                "name": "UK RACING",
+                "planet_category_id": "38",
+                "planet_channel_id": "276",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/30263_16203_ukracing (1).jpg"
+              },
+              "sub_132": {
+                "id": 132,
+                "mode": "video",
+                "name": "Willow Cric",
+                "planet_category_id": "38",
+                "planet_channel_id": "1515",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/82889_willow.png"
+              },
+              "sub_133": {
+                "id": 133,
+                "mode": "video",
+                "name": "WWE NETWORK",
+                "planet_category_id": "38",
+                "planet_channel_id": "1356",
+                "sub_name": "",
+                "thumbnail_url": "https://app.liveplanettv.com/beta/images/7483_wwe.jpg"
+              }
+            }
+          },
+         "main_sub_2": {
             "id": 2,
             "name": "USA TV-1",
             "sub_name": "Channels",
