@@ -15,7 +15,7 @@
             "id": 0,
             "name": "Sports TV",
             "sub_name": "Channels",
-            "thumbnail_url": "https://app.liveplanettv.com/beta/images/47190_1434_SPORTS.jpg",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Sports-TV.jpeg",
             "sub": {
               "sub_0": {
                 "id": 0,
@@ -1229,7 +1229,7 @@
             "id": 1,
             "name": "Indian TV",
             "sub_name": "Channels",
-            "thumbnail_url": "https://app.liveplanettv.com/beta/images/58022_40441_INDIAN.jpg",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/India-TV.jpeg",
             "sub": {
               "sub_0": {
                 "id": 0,
@@ -3220,7 +3220,7 @@
             "id": 2,
             "name": "USA TV-1",
             "sub_name": "Channels",
-            "thumbnail_url": "https://app.liveplanettv.com/beta/images/7670_74909_USA.jpg",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/USA-TV.jpeg",
             "sub": {
               "sub_0": {
                 "id": 0,
@@ -5542,7 +5542,7 @@
             "id": 3,
             "name": "USA TV-2",
             "sub_name": "Channels",
-            "thumbnail_url": "https://app.liveplanettv.com/beta/images/7670_74909_USA.jpg",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/USA-TV.jpeg",
             "sub": {
               "sub_285": {
                 "id": 285,
@@ -6902,7 +6902,7 @@
             "id": 4,
             "name": "South Indian",
             "sub_name": "Channels",
-            "thumbnail_url": "https://app.liveplanettv.com/beta/images/63415_20477_SOUTHINDIAN (1).jpg",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/South-India-TV.jpeg",
             "sub": {
               "sub_0": {
                 "id": 0,
@@ -7333,7 +7333,7 @@
             "id": 5,
             "name": "France TV",
             "sub_name": "Channels",
-            "thumbnail_url": "https://app.liveplanettv.com/beta/images/4682_32216_FRANCE.jpg",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/France-TV.jpeg",
             "sub": {
               "sub_0": {
                 "id": 0,
@@ -8015,7 +8015,7 @@
             "id": 6,
             "name": "Germany TV",
             "sub_name": "Channels",
-            "thumbnail_url": "https://app.liveplanettv.com/beta/images/34456_50203_GERMANY.jpg",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Germany.jpeg",
             "sub": {
               "sub_0": {
                 "id": 0,
@@ -9285,7 +9285,7 @@
             "id": 7,
             "name": "Pakistani TV",
             "sub_name": "Channels",
-            "thumbnail_url": "https://app.liveplanettv.com/beta/images/20480_45913_PAKISTANI.jpg",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Pakistan-TV.jpeg",
             "sub": {
               "sub_0": {
                 "id": 0,
@@ -10040,7 +10040,7 @@
             "id": 8,
             "name": "Portugal TV",
             "sub_name": "Channels",
-            "thumbnail_url": "https://app.liveplanettv.com/beta/images/76886_28669_PORTUGAL.jpg",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Portugal-TV.jpeg",
             "sub": {
               "sub_0": {
                 "id": 0,
@@ -10592,7 +10592,7 @@
             "id": 9,
             "name": "Turkish TV",
             "sub_name": "Channels",
-            "thumbnail_url": "https://app.liveplanettv.com/beta/images/52698_41272_Turkey (1).jpg",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Turkish-TV.jpeg",
             "sub": {
               "sub_0": {
                 "id": 0,
@@ -11394,7 +11394,7 @@
             "id": 10,
             "name": "UK TV",
             "sub_name": "Channels",
-            "thumbnail_url": "https://app.liveplanettv.com/beta/images/49049_22488_UK.jpg",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/UK-TV.jpeg",
             "sub": {
               "sub_0": {
                 "id": 0,
@@ -15001,7 +15001,7 @@
             "id": 18,
             "name": "Arabian TV",
             "sub_name": "Channels",
-            "thumbnail_url": "https://app.liveplanettv.com/beta/images/28889_93461_ARABIC.jpg",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Arabic-TV.jpg",
             "sub": {
               "sub_0": {
                 "id": 0,
@@ -15900,7 +15900,7 @@
             "id": 19,
             "name": "Kids TV",
             "sub_name": "Channels",
-            "thumbnail_url": "https://app.liveplanettv.com/beta/images/30039_82448_KIDS.jpg",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Kidz-Zone.jpeg",
             "sub": {
               "sub_0": {
                 "id": 0,
@@ -15980,7 +15980,7 @@
             "id": 20,
             "name": "Wildlife/Science TV",
             "sub_name": "Channels",
-            "thumbnail_url": "https://app.liveplanettv.com/beta/images/98218_56986_WILDSCIENC.jpg",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Wild-Life-Sci.jpeg",
             "sub": {
               "sub_0": {
                 "id": 0,
