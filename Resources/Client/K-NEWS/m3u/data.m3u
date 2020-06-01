@@ -6,12 +6,6 @@
       "thumb_width": 500,
       "all_Channels_Tab_Name": "",
       "main": {
-        "id": 11,
-        "name": "INDIAN Channels",
-        "sub_name": "Channels",
-        "thumbnail_url": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/Resources/Client/K-NEWS/images/K%20News%20india%20Logo.jpg",
-        "sub": {
-          "sub_1": {
             "id": 1,
             "mode": "video",
             "name": "K NEWS-INDIA",
@@ -19,8 +13,6 @@
             "stream_video_url": "https://knews.livebox.co.in/youtubehls/live.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/theantiqa/PocketIPTV/master/Resources/Client/K-NEWS/images/K%20News%20india%20Logo.jpg"
           }
-        }
-      }
     }
   }
 }
