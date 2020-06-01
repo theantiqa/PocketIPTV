@@ -1,7 +1,7 @@
 {
   "TV_Data": {
     "Channel_List": {
-      "is_channel_list": true,
+      "is_channel_list": false,
       "is_override": true,
       "thumb_width": 500,
       "all_Channels_Tab_Name": "",
