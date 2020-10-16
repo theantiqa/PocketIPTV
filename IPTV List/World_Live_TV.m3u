@@ -15,7 +15,7 @@
             "id": 0,
             "name": "Indian Channels",
             "sub_name": "Channels",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/uploads/2019/12/iconfinder_flag-india_748132.png",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/India-TV.jpeg",
             "sub": {
               "sub_0": {
                 "id": 0,
@@ -1631,7 +1631,7 @@
             "id": 1,
             "name": "German Channels",
             "sub_name": "Channels",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/uploads/2019/12/iconfinder_flag-germany_748067.png",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Germany.jpeg",
             "sub": {
               "sub_0": {
                 "id": 0,
@@ -2999,7 +2999,7 @@
             "id": 2,
             "name": "Spanish Channels",
             "sub_name": "Channels",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/uploads/2019/12/iconfinder_flag-spain_748120.png",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Spain-TV.jpeg",
             "sub": {
               "sub_0": {
                 "id": 0,
@@ -3941,9 +3941,9 @@
           },
           "main_sub_3": {
             "id": 3,
-            "name": "English Channels",
+            "name": "UK Channels",
             "sub_name": "Channels",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/uploads/2019/12/iconfinder_flag-united-kingdom_748024.png",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/UK-TV.jpeg",
             "sub": {
               "sub_0": {
                 "id": 0,
@@ -4223,7 +4223,7 @@
             "id": 4,
             "name": "Russian Channels",
             "sub_name": "Channels",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/uploads/2019/12/iconfinder_flag-russia2x_748044.png",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Russia-TV.jpg",
             "sub": {
               "sub_0": {
                 "id": 0,
@@ -4565,9 +4565,9 @@
           },
           "main_sub_5": {
             "id": 5,
-            "name": "Brasilian Channels",
+            "name": "Brazilian Channels",
             "sub_name": "Channels",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/uploads/2019/12/iconfinder_flag-brazil_748057.png",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Brazil.jpg",
             "sub": {
               "sub_0": {
                 "id": 0,
@@ -5303,7 +5303,7 @@
             "id": 6,
             "name": "Portuguese Channels",
             "sub_name": "Channels",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/uploads/2019/12/iconfinder_flag-portugal_748139.png",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Portugal-TV.jpeg",
             "sub": {
               "sub_0": {
                 "id": 0,
@@ -5471,7 +5471,7 @@
             "id": 7,
             "name": "Ukraine Channels",
             "sub_name": "Channels",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/uploads/2019/12/iconfinder_flag-ukraine_748083.png",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Ukrain-TV.jpg",
             "sub": {
               "sub_0": {
                 "id": 0,
@@ -5687,7 +5687,7 @@
             "id": 8,
             "name": "Turkish Channels",
             "sub_name": "Channels",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/uploads/2019/12/iconfinder_flag-turkey_748103.png",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Turkish-TV.jpeg",
             "sub": {
               "sub_0": {
                 "id": 0,
@@ -6335,7 +6335,7 @@
             "id": 9,
             "name": "USA 2 Channels",
             "sub_name": "Channels",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/uploads/2019/12/iconfinder_flag-usa_748050.png",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/USA-TV.jpeg",
             "sub": {
               "sub_0": {
                 "id": 0,
@@ -7951,7 +7951,7 @@
             "id": 9,
             "name": "USA 2 Channels",
             "sub_name": "Channels",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/uploads/2019/12/iconfinder_flag-usa_748050.png",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/USA-TV.jpeg",
             "sub": {
               "sub_201": {
                 "id": 201,
@@ -9687,7 +9687,7 @@
             "id": 10,
             "name": "Italian Channels",
             "sub_name": "Channels",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/uploads/2019/12/iconfinder_flag-italy_748049.png",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Italy-TV.jpeg",
             "sub": {
               "sub_0": {
                 "id": 0,
@@ -11367,7 +11367,7 @@
             "id": 11,
             "name": "French Channels",
             "sub_name": "Channels",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/uploads/2019/12/iconfinder_flag-france_748130.png",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/France-TV.jpeg",
             "sub": {
               "sub_0": {
                 "id": 0,
@@ -12183,7 +12183,7 @@
             "id": 12,
             "name": "Arabic Channels",
             "sub_name": "Channels",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/uploads/2019/12/iconfinder_flag-saudi-arabia_748010.png",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Arabic-TV.jpg",
             "sub": {
               "sub_0": {
                 "id": 0,
@@ -12735,7 +12735,7 @@
             "id": 13,
             "name": "Chinese Channels",
             "sub_name": "Channels",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/uploads/2019/12/iconfinder_flag-china_748006.png",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/China.jpg",
             "sub": {
               "sub_0": {
                 "id": 0,
@@ -12847,7 +12847,7 @@
             "id": 14,
             "name": "Netherlands Channels",
             "sub_name": "Channels",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/uploads/2019/12/iconfinder_flag-the-netherlands_748017.png",
+            "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Neatherland-TV.jpeg",
             "sub": {
               "sub_0": {
                 "id": 0,
