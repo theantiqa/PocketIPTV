@@ -17,7 +17,23 @@
             "sub_name": "Channels",
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/India-TV.jpeg",
             "sub": {
-              "sub_0": {
+                "sub_00": {
+                  "id": -1,
+                  "mode": "application",
+                  "name": "Live Talk",
+                  "sub_name": "",
+                  "is_system_browser": true,
+                  "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/LiveTalk/banner.png",
+                  "website_url": "",
+                  "progress_downloading_message": "Downloading",
+                  "progress_install_message": "Installing",
+                  "application_package_id": "com.livetalk.llc",
+                  "full_title": "Live Talk - Free Video Chat with Strangers",
+                  "application_download_url": "",
+                  "description": "Live Talk- Free video chat provides a gateway to talk and meet new people online. The application ensures security and is designed under the radar of a smooth video calling experience without any misbehavior and related acts.\n\nWorld is a heterogeneous mix of cultures and languages and live talk brings this culture at finger tap. Just one click and anyone can get connected to someone who will bring a new deal of culture, language and life experiences. The time utilized on this free video chat portal will not only help in getting a new video chat experience but offers a package deal of contacting strangers and having a healthy conversation with them.",
+                  "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/LiveTalk/ic_logo.png"
+              },
+              "sub_01": {
                 "id": 0,
                 "mode": "video",
                 "name": "& PRIVE HD",
