@@ -1649,7 +1649,23 @@
             "sub_name": "Channels",
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Germany.jpeg",
             "sub": {
-              "sub_0": {
+                "sub_00": {
+                  "id": -1,
+                  "mode": "application",
+                  "name": "Live Talk",
+                  "sub_name": "",
+                  "is_system_browser": true,
+                  "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/LiveTalk/banner.png",
+                  "website_url": "",
+                  "progress_downloading_message": "Downloading",
+                  "progress_install_message": "Installing",
+                  "application_package_id": "com.livetalk.llc",
+                  "full_title": "Live Talk - Free Video Chat with Strangers",
+                  "application_download_url": "",
+                  "description": "Live Talk- Free video chat provides a gateway to talk and meet new people online. The application ensures security and is designed under the radar of a smooth video calling experience without any misbehavior and related acts.\n\nWorld is a heterogeneous mix of cultures and languages and live talk brings this culture at finger tap. Just one click and anyone can get connected to someone who will bring a new deal of culture, language and life experiences. The time utilized on this free video chat portal will not only help in getting a new video chat experience but offers a package deal of contacting strangers and having a healthy conversation with them.",
+                  "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/LiveTalk/ic_logo.png"
+              },
+              "sub_01": {
                 "id": 0,
                 "mode": "video",
                 "name": "a.tv",
@@ -3017,7 +3033,23 @@
             "sub_name": "Channels",
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Spain-TV.jpeg",
             "sub": {
-              "sub_0": {
+                "sub_00": {
+                  "id": -1,
+                  "mode": "application",
+                  "name": "Live Talk",
+                  "sub_name": "",
+                  "is_system_browser": true,
+                  "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/LiveTalk/banner.png",
+                  "website_url": "",
+                  "progress_downloading_message": "Downloading",
+                  "progress_install_message": "Installing",
+                  "application_package_id": "com.livetalk.llc",
+                  "full_title": "Live Talk - Free Video Chat with Strangers",
+                  "application_download_url": "",
+                  "description": "Live Talk- Free video chat provides a gateway to talk and meet new people online. The application ensures security and is designed under the radar of a smooth video calling experience without any misbehavior and related acts.\n\nWorld is a heterogeneous mix of cultures and languages and live talk brings this culture at finger tap. Just one click and anyone can get connected to someone who will bring a new deal of culture, language and life experiences. The time utilized on this free video chat portal will not only help in getting a new video chat experience but offers a package deal of contacting strangers and having a healthy conversation with them.",
+                  "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/LiveTalk/ic_logo.png"
+              },
+              "sub_01": {
                 "id": 0,
                 "mode": "video",
                 "name": "24 Horas",
@@ -3961,7 +3993,23 @@
             "sub_name": "Channels",
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/UK-TV.jpeg",
             "sub": {
-              "sub_0": {
+                "sub_00": {
+                  "id": -1,
+                  "mode": "application",
+                  "name": "Live Talk",
+                  "sub_name": "",
+                  "is_system_browser": true,
+                  "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/LiveTalk/banner.png",
+                  "website_url": "",
+                  "progress_downloading_message": "Downloading",
+                  "progress_install_message": "Installing",
+                  "application_package_id": "com.livetalk.llc",
+                  "full_title": "Live Talk - Free Video Chat with Strangers",
+                  "application_download_url": "",
+                  "description": "Live Talk- Free video chat provides a gateway to talk and meet new people online. The application ensures security and is designed under the radar of a smooth video calling experience without any misbehavior and related acts.\n\nWorld is a heterogeneous mix of cultures and languages and live talk brings this culture at finger tap. Just one click and anyone can get connected to someone who will bring a new deal of culture, language and life experiences. The time utilized on this free video chat portal will not only help in getting a new video chat experience but offers a package deal of contacting strangers and having a healthy conversation with them.",
+                  "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/LiveTalk/ic_logo.png"
+              },
+              "sub_01": {
                 "id": 0,
                 "mode": "video",
                 "name": "Cruise 1st TV",
@@ -4241,7 +4289,23 @@
             "sub_name": "Channels",
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Russia-TV.jpg",
             "sub": {
-              "sub_0": {
+                "sub_00": {
+                  "id": -1,
+                  "mode": "application",
+                  "name": "Live Talk",
+                  "sub_name": "",
+                  "is_system_browser": true,
+                  "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/LiveTalk/banner.png",
+                  "website_url": "",
+                  "progress_downloading_message": "Downloading",
+                  "progress_install_message": "Installing",
+                  "application_package_id": "com.livetalk.llc",
+                  "full_title": "Live Talk - Free Video Chat with Strangers",
+                  "application_download_url": "",
+                  "description": "Live Talk- Free video chat provides a gateway to talk and meet new people online. The application ensures security and is designed under the radar of a smooth video calling experience without any misbehavior and related acts.\n\nWorld is a heterogeneous mix of cultures and languages and live talk brings this culture at finger tap. Just one click and anyone can get connected to someone who will bring a new deal of culture, language and life experiences. The time utilized on this free video chat portal will not only help in getting a new video chat experience but offers a package deal of contacting strangers and having a healthy conversation with them.",
+                  "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/LiveTalk/ic_logo.png"
+              },
+              "sub_01": {
                 "id": 0,
                 "mode": "video",
                 "name": "1HD Music TV",
@@ -4585,7 +4649,23 @@
             "sub_name": "Channels",
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Brazil.jpg",
             "sub": {
-              "sub_0": {
+                "sub_00": {
+                  "id": -1,
+                  "mode": "application",
+                  "name": "Live Talk",
+                  "sub_name": "",
+                  "is_system_browser": true,
+                  "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/LiveTalk/banner.png",
+                  "website_url": "",
+                  "progress_downloading_message": "Downloading",
+                  "progress_install_message": "Installing",
+                  "application_package_id": "com.livetalk.llc",
+                  "full_title": "Live Talk - Free Video Chat with Strangers",
+                  "application_download_url": "",
+                  "description": "Live Talk- Free video chat provides a gateway to talk and meet new people online. The application ensures security and is designed under the radar of a smooth video calling experience without any misbehavior and related acts.\n\nWorld is a heterogeneous mix of cultures and languages and live talk brings this culture at finger tap. Just one click and anyone can get connected to someone who will bring a new deal of culture, language and life experiences. The time utilized on this free video chat portal will not only help in getting a new video chat experience but offers a package deal of contacting strangers and having a healthy conversation with them.",
+                  "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/LiveTalk/ic_logo.png"
+              },
+              "sub_01": {
                 "id": 0,
                 "mode": "video",
                 "name": "All Sports",
@@ -5321,7 +5401,23 @@
             "sub_name": "Channels",
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Portugal-TV.jpeg",
             "sub": {
-              "sub_0": {
+                "sub_00": {
+                  "id": -1,
+                  "mode": "application",
+                  "name": "Live Talk",
+                  "sub_name": "",
+                  "is_system_browser": true,
+                  "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/LiveTalk/banner.png",
+                  "website_url": "",
+                  "progress_downloading_message": "Downloading",
+                  "progress_install_message": "Installing",
+                  "application_package_id": "com.livetalk.llc",
+                  "full_title": "Live Talk - Free Video Chat with Strangers",
+                  "application_download_url": "",
+                  "description": "Live Talk- Free video chat provides a gateway to talk and meet new people online. The application ensures security and is designed under the radar of a smooth video calling experience without any misbehavior and related acts.\n\nWorld is a heterogeneous mix of cultures and languages and live talk brings this culture at finger tap. Just one click and anyone can get connected to someone who will bring a new deal of culture, language and life experiences. The time utilized on this free video chat portal will not only help in getting a new video chat experience but offers a package deal of contacting strangers and having a healthy conversation with them.",
+                  "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/LiveTalk/ic_logo.png"
+              },
+              "sub_01": {
                 "id": 0,
                 "mode": "video",
                 "name": "ARTV | Canal Parlamento",
@@ -5489,7 +5585,23 @@
             "sub_name": "Channels",
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Ukrain-TV.jpg",
             "sub": {
-              "sub_0": {
+                "sub_00": {
+                  "id": -1,
+                  "mode": "application",
+                  "name": "Live Talk",
+                  "sub_name": "",
+                  "is_system_browser": true,
+                  "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/LiveTalk/banner.png",
+                  "website_url": "",
+                  "progress_downloading_message": "Downloading",
+                  "progress_install_message": "Installing",
+                  "application_package_id": "com.livetalk.llc",
+                  "full_title": "Live Talk - Free Video Chat with Strangers",
+                  "application_download_url": "",
+                  "description": "Live Talk- Free video chat provides a gateway to talk and meet new people online. The application ensures security and is designed under the radar of a smooth video calling experience without any misbehavior and related acts.\n\nWorld is a heterogeneous mix of cultures and languages and live talk brings this culture at finger tap. Just one click and anyone can get connected to someone who will bring a new deal of culture, language and life experiences. The time utilized on this free video chat portal will not only help in getting a new video chat experience but offers a package deal of contacting strangers and having a healthy conversation with them.",
+                  "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/LiveTalk/ic_logo.png"
+              },
+              "sub_01": {
                 "id": 0,
                 "mode": "video",
                 "name": "100% News",
@@ -5705,7 +5817,23 @@
             "sub_name": "Channels",
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Turkish-TV.jpeg",
             "sub": {
-              "sub_0": {
+                "sub_00": {
+                  "id": -1,
+                  "mode": "application",
+                  "name": "Live Talk",
+                  "sub_name": "",
+                  "is_system_browser": true,
+                  "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/LiveTalk/banner.png",
+                  "website_url": "",
+                  "progress_downloading_message": "Downloading",
+                  "progress_install_message": "Installing",
+                  "application_package_id": "com.livetalk.llc",
+                  "full_title": "Live Talk - Free Video Chat with Strangers",
+                  "application_download_url": "",
+                  "description": "Live Talk- Free video chat provides a gateway to talk and meet new people online. The application ensures security and is designed under the radar of a smooth video calling experience without any misbehavior and related acts.\n\nWorld is a heterogeneous mix of cultures and languages and live talk brings this culture at finger tap. Just one click and anyone can get connected to someone who will bring a new deal of culture, language and life experiences. The time utilized on this free video chat portal will not only help in getting a new video chat experience but offers a package deal of contacting strangers and having a healthy conversation with them.",
+                  "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/LiveTalk/ic_logo.png"
+              },
+              "sub_01": {
                 "id": 0,
                 "mode": "video",
                 "name": "Afyon Turk TV",
@@ -9705,7 +9833,23 @@
             "sub_name": "Channels",
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Italy-TV.jpeg",
             "sub": {
-              "sub_0": {
+                "sub_00": {
+                  "id": -1,
+                  "mode": "application",
+                  "name": "Live Talk",
+                  "sub_name": "",
+                  "is_system_browser": true,
+                  "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/LiveTalk/banner.png",
+                  "website_url": "",
+                  "progress_downloading_message": "Downloading",
+                  "progress_install_message": "Installing",
+                  "application_package_id": "com.livetalk.llc",
+                  "full_title": "Live Talk - Free Video Chat with Strangers",
+                  "application_download_url": "",
+                  "description": "Live Talk- Free video chat provides a gateway to talk and meet new people online. The application ensures security and is designed under the radar of a smooth video calling experience without any misbehavior and related acts.\n\nWorld is a heterogeneous mix of cultures and languages and live talk brings this culture at finger tap. Just one click and anyone can get connected to someone who will bring a new deal of culture, language and life experiences. The time utilized on this free video chat portal will not only help in getting a new video chat experience but offers a package deal of contacting strangers and having a healthy conversation with them.",
+                  "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/LiveTalk/ic_logo.png"
+              },
+              "sub_01": {
                 "id": 0,
                 "mode": "video",
                 "name": "Azzurra TV",
@@ -11385,7 +11529,23 @@
             "sub_name": "Channels",
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/France-TV.jpeg",
             "sub": {
-              "sub_0": {
+                "sub_00": {
+                  "id": -1,
+                  "mode": "application",
+                  "name": "Live Talk",
+                  "sub_name": "",
+                  "is_system_browser": true,
+                  "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/LiveTalk/banner.png",
+                  "website_url": "",
+                  "progress_downloading_message": "Downloading",
+                  "progress_install_message": "Installing",
+                  "application_package_id": "com.livetalk.llc",
+                  "full_title": "Live Talk - Free Video Chat with Strangers",
+                  "application_download_url": "",
+                  "description": "Live Talk- Free video chat provides a gateway to talk and meet new people online. The application ensures security and is designed under the radar of a smooth video calling experience without any misbehavior and related acts.\n\nWorld is a heterogeneous mix of cultures and languages and live talk brings this culture at finger tap. Just one click and anyone can get connected to someone who will bring a new deal of culture, language and life experiences. The time utilized on this free video chat portal will not only help in getting a new video chat experience but offers a package deal of contacting strangers and having a healthy conversation with them.",
+                  "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/LiveTalk/ic_logo.png"
+              },
+              "sub_01": {
                 "id": 0,
                 "mode": "video",
                 "name": "Alpe d\u2019Huez TV",
@@ -12201,7 +12361,23 @@
             "sub_name": "Channels",
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Arabic-TV.jpg",
             "sub": {
-              "sub_0": {
+                "sub_00": {
+                  "id": -1,
+                  "mode": "application",
+                  "name": "Live Talk",
+                  "sub_name": "",
+                  "is_system_browser": true,
+                  "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/LiveTalk/banner.png",
+                  "website_url": "",
+                  "progress_downloading_message": "Downloading",
+                  "progress_install_message": "Installing",
+                  "application_package_id": "com.livetalk.llc",
+                  "full_title": "Live Talk - Free Video Chat with Strangers",
+                  "application_download_url": "",
+                  "description": "Live Talk- Free video chat provides a gateway to talk and meet new people online. The application ensures security and is designed under the radar of a smooth video calling experience without any misbehavior and related acts.\n\nWorld is a heterogeneous mix of cultures and languages and live talk brings this culture at finger tap. Just one click and anyone can get connected to someone who will bring a new deal of culture, language and life experiences. The time utilized on this free video chat portal will not only help in getting a new video chat experience but offers a package deal of contacting strangers and having a healthy conversation with them.",
+                  "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/LiveTalk/ic_logo.png"
+              },
+              "sub_01": {
                 "id": 0,
                 "mode": "video",
                 "name": "Abu Dhabi Drama",
@@ -12753,7 +12929,23 @@
             "sub_name": "Channels",
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/China.jpg",
             "sub": {
-              "sub_0": {
+                "sub_00": {
+                  "id": -1,
+                  "mode": "application",
+                  "name": "Live Talk",
+                  "sub_name": "",
+                  "is_system_browser": true,
+                  "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/LiveTalk/banner.png",
+                  "website_url": "",
+                  "progress_downloading_message": "Downloading",
+                  "progress_install_message": "Installing",
+                  "application_package_id": "com.livetalk.llc",
+                  "full_title": "Live Talk - Free Video Chat with Strangers",
+                  "application_download_url": "",
+                  "description": "Live Talk- Free video chat provides a gateway to talk and meet new people online. The application ensures security and is designed under the radar of a smooth video calling experience without any misbehavior and related acts.\n\nWorld is a heterogeneous mix of cultures and languages and live talk brings this culture at finger tap. Just one click and anyone can get connected to someone who will bring a new deal of culture, language and life experiences. The time utilized on this free video chat portal will not only help in getting a new video chat experience but offers a package deal of contacting strangers and having a healthy conversation with them.",
+                  "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/LiveTalk/ic_logo.png"
+              },
+              "sub_01": {
                 "id": 0,
                 "mode": "video",
                 "name": "CGTN",
@@ -12865,7 +13057,23 @@
             "sub_name": "Channels",
             "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/All%20TV/Neatherland-TV.jpeg",
             "sub": {
-              "sub_0": {
+                "sub_00": {
+                  "id": -1,
+                  "mode": "application",
+                  "name": "Live Talk",
+                  "sub_name": "",
+                  "is_system_browser": true,
+                  "banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/LiveTalk/banner.png",
+                  "website_url": "",
+                  "progress_downloading_message": "Downloading",
+                  "progress_install_message": "Installing",
+                  "application_package_id": "com.livetalk.llc",
+                  "full_title": "Live Talk - Free Video Chat with Strangers",
+                  "application_download_url": "",
+                  "description": "Live Talk- Free video chat provides a gateway to talk and meet new people online. The application ensures security and is designed under the radar of a smooth video calling experience without any misbehavior and related acts.\n\nWorld is a heterogeneous mix of cultures and languages and live talk brings this culture at finger tap. Just one click and anyone can get connected to someone who will bring a new deal of culture, language and life experiences. The time utilized on this free video chat portal will not only help in getting a new video chat experience but offers a package deal of contacting strangers and having a healthy conversation with them.",
+                  "thumbnail_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/LiveTalk/ic_logo.png"
+              },
+              "sub_01": {
                 "id": 0,
                 "mode": "video",
                 "name": "1Twente",
